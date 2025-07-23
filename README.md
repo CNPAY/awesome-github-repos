@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
+
 *   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
 *   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
@@ -492,8 +494,6 @@
 
 *   [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 
-*   [gongjunhao/seckill](https://github.com/gongjunhao/seckill) - Chrome浏览器 抢购、秒杀插件，秒杀助手，定时自动点击
-
 ## TypeScript
 
 *   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
@@ -900,7 +900,7 @@
 
 *   [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 
-*   [tnb-labs/panel](https://github.com/tnb-labs/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
