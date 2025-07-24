@@ -24,6 +24,7 @@
 *   [C++](#c-1)
 *   [C#](#c-2)
 *   [Batchfile](#batchfile)
+*   [Adblock Filter List](#adblock-filter-list)
 *   [Objective-C](#objective-c)
 *   [SCSS](#scss)
 *   [EJS](#ejs)
@@ -33,7 +34,6 @@
 *   [Less](#less)
 *   [Classic ASP](#classic-asp)
 *   [Crystal](#crystal)
-*   [Adblock Filter List](#adblock-filter-list)
 *   [MDX](#mdx)
 *   [Lua](#lua)
 *   [Blade](#blade)
@@ -650,7 +650,7 @@
 
 *   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 🌏 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，支持自部署
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 🌏 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
 *   [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 
@@ -1126,8 +1126,6 @@
 
 *   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
 
-*   [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。
-
 *   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
@@ -1446,6 +1444,12 @@
 
 *   [1143520/picture-api](https://github.com/1143520/picture-api) -
 
+## Adblock Filter List
+
+*   [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。
+
+*   [cjx82630/cjxlist](https://github.com/cjx82630/cjxlist) -
+
 ## Objective-C
 
 *   [Alinto/sogo](https://github.com/Alinto/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission handling. It also makes use of documented standards (IMAP, CalDAV, CardDAV, etc.) and thereby provides native connectivity (without plugins) to many clients such as Microsoft Outlook, Apple iCal, the iPhone, Mozilla Lightning, and a plethora of mobile devices.
@@ -1487,10 +1491,6 @@
 ## Crystal
 
 *   [getmango/Mango](https://github.com/getmango/Mango) - Mango is a self-hosted manga server and web reader
-
-## Adblock Filter List
-
-*   [cjx82630/cjxlist](https://github.com/cjx82630/cjxlist) -
 
 ## MDX
 
