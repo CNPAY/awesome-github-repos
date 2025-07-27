@@ -128,6 +128,8 @@
 
 *   [CalmXin/xin-whois](https://github.com/CalmXin/xin-whois) - 支持多种后缀，功能强大全面，界面美观优雅，无广告，打造最实用的终极Whois查询工具
 
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
 *   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
 *   [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
@@ -444,8 +446,6 @@
 
 *   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
 *   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
 *   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
@@ -652,7 +652,7 @@
 
 *   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 🌏 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 
 *   [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
 
