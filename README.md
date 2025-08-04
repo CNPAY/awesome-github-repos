@@ -470,8 +470,6 @@
 
 *   [akile-network/akile\_monitor](https://github.com/akile-network/akile_monitor) - Akile Monitor
 
-*   [niliovo/akile\_monitor\_docker](https://github.com/niliovo/akile_monitor_docker) - Akile Monitor in Docker
-
 *   [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 
 *   [yosebyte/passport](https://github.com/yosebyte/passport) - Powerful yet simple solution for network tunneling and port forwarding with access control all using 1-URL command.
@@ -1097,6 +1095,8 @@
 *   [DustinWin/dustinwin.github.io](https://github.com/DustinWin/dustinwin.github.io) - mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
 
 *   [wulabing/xray\_docker](https://github.com/wulabing/xray_docker) - Xray reality docker
+
+*   [niliovo/akile\_monitor\_docker](https://github.com/niliovo/akile_monitor_docker) - Akile Monitor in Docker
 
 *   [JellycatUK/HY-shell-script](https://github.com/JellycatUK/HY-shell-script) - HY一键脚本工具
 
