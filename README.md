@@ -910,7 +910,7 @@
 
 *   [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
 
-*   [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - A cross-platform image super-resolution tool.
+*   [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
 
 *   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
 
@@ -948,7 +948,7 @@
 
 *   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram手机应用推送，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram手机应用推送资讯，无需编程基础，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
 
 *   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
@@ -1052,7 +1052,7 @@
 
 *   [deerwan/homepage](https://github.com/deerwan/homepage) - 个人主页 导航页
 
-*   [lovebai/toalist](https://github.com/lovebai/toalist) - 一款使用Golang开发的可对接 Alist 的文件服务程序
+*   [lovebai/toalist](https://github.com/lovebai/toalist) - 一款使用Golang开发的可对接 Openlist（Alist） 的文件服务程序
 
 *   [EvanTop/EvanNav\_SV](https://github.com/EvanTop/EvanNav_SV) - EvanNav\_SV 是 EvanNav的超级简化版本（Super Vanilla），将完整导航系统的精华浓缩为单个 HTML 文件。这款轻量级网址收藏管理工具继承了原版的核心功能和优雅设计，同时大幅提升了便携性和易用性。
 
