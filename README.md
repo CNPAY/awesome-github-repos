@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Vue](#vue)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
@@ -12,7 +13,6 @@
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [Astro](#astro)
-*   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [Roff](#roff)
 *   [Dockerfile](#dockerfile)
@@ -41,6 +41,48 @@
 *   [Perl](#perl)
 *   [CoffeeScript](#coffeescript)
 *   [Smarty](#smarty)
+
+## PHP
+
+*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+
+*   [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
+
+*   [AdmUU/Admin.IM](https://github.com/AdmUU/Admin.IM) - Admin.IM is an open source NetOps system. It uses the PHP Hyperf framework driven by Swoole, full coroutine scheduling + asynchronous I/O implementation, and the system performance is excellent.
+
+*   [reg233/whois-domain-lookup](https://github.com/reg233/whois-domain-lookup) - A simple WHOIS domain lookup website with strong TLD compatibility.
+
+*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
+
+*   [jerrybendy/get\_favicon](https://github.com/jerrybendy/get_favicon) - Get website's Favicon with PHP
+
+*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
+
+*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
+
+*   [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - Server for Passky (password manager)
+
+*   [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
+
+*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
+
+*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
+
+*   [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
+
+*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
+
+*   [GitHubPangHu/whoisQuery](https://github.com/GitHubPangHu/whoisQuery) - whois查询，可以查询任意后缀域名。
+
+*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
+
+*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
+
+*   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
+
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
 
 ## Vue
 
@@ -948,7 +990,7 @@
 
 *   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram手机应用推送资讯，无需编程基础，1分钟部署完毕， 支持 docker 部署。⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
@@ -1026,7 +1068,7 @@
 
 *   [jaaksii/sublink](https://github.com/jaaksii/sublink) - 开源节点订阅转换生成管理系统，集成前后端部署在docker
 
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
 
 *   [CalmXin/xin-whois](https://github.com/CalmXin/xin-whois) - 支持多种后缀，功能强大全面，界面美观优雅，无广告，打造最实用的终极Whois查询工具
 
@@ -1045,8 +1087,6 @@
 *   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
 
 *   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
-
-*   [DUpdateSystem/UpgradeAll-rules](https://github.com/DUpdateSystem/UpgradeAll-rules) - UpgradeAll Discover Config Repository
 
 ## HTML
 
@@ -1229,46 +1269,6 @@
 *   [zywe03/astro-xwnav](https://github.com/zywe03/astro-xwnav) - 🚀基于 Astro 构建的超轻量个人导航站项目，支持纯静态部署，无需数据库 / 后端，仅编辑数据文件即可更新页面。主打新手友好 & 极速上线，适配Vercel、Cloudflare Pages 等平台
 
 *   [ricocc/public-portfolio-site](https://github.com/ricocc/public-portfolio-site) - Designer Portfolio\&Blog Template
-
-## PHP
-
-*   [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
-
-*   [AdmUU/Admin.IM](https://github.com/AdmUU/Admin.IM) - Admin.IM is an open source NetOps system. It uses the PHP Hyperf framework driven by Swoole, full coroutine scheduling + asynchronous I/O implementation, and the system performance is excellent.
-
-*   [reg233/whois-domain-lookup](https://github.com/reg233/whois-domain-lookup) - A simple WHOIS domain lookup website with strong TLD compatibility.
-
-*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
-*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
-
-*   [jerrybendy/get\_favicon](https://github.com/jerrybendy/get_favicon) - Get website's Favicon with PHP
-
-*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
-
-*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-
-*   [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - Server for Passky (password manager)
-
-*   [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
-
-*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
-
-*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
-
-*   [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
-
-*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
-
-*   [GitHubPangHu/whoisQuery](https://github.com/GitHubPangHu/whoisQuery) - whois查询，可以查询任意后缀域名。
-
-*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
-
-*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-
-*   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
-
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
 
 ## Kotlin
 
