@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-*   [PHP](#php)
+*   [JavaScript](#javascript)
 *   [Vue](#vue)
+*   [PHP](#php)
 *   [Java](#java)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -42,255 +42,9 @@
 *   [CoffeeScript](#coffeescript)
 *   [Smarty](#smarty)
 
-## PHP
-
-*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
-
-*   [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
-
-*   [AdmUU/Admin.IM](https://github.com/AdmUU/Admin.IM) - Admin.IM is an open source NetOps system. It uses the PHP Hyperf framework driven by Swoole, full coroutine scheduling + asynchronous I/O implementation, and the system performance is excellent.
-
-*   [reg233/whois-domain-lookup](https://github.com/reg233/whois-domain-lookup) - A simple WHOIS domain lookup website with strong TLD compatibility.
-
-*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
-*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
-
-*   [jerrybendy/get\_favicon](https://github.com/jerrybendy/get_favicon) - Get website's Favicon with PHP
-
-*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
-
-*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-
-*   [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - Server for Passky (password manager)
-
-*   [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
-
-*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
-
-*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
-
-*   [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
-
-*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
-
-*   [GitHubPangHu/whoisQuery](https://github.com/GitHubPangHu/whoisQuery) - whois查询，可以查询任意后缀域名。
-
-*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
-
-*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-
-*   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
-
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
-
-## Vue
-
-*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 糖果梦热搜-前端
-
-*   [eooce/nav-item](https://github.com/eooce/nav-item) - 导航站
-
-*   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
-
-*   [solaireh3/home-vue](https://github.com/solaireh3/home-vue) -
-
-*   [anghunk/UserScript](https://github.com/anghunk/UserScript) - 这是一个实用的油猴脚本（UserScript）集合仓库，包含了多个实用的浏览器增强脚本。这些脚本旨在提升网页浏览体验，增加网站功能，优化用户界面等。
-
-*   [shaoyouvip/sub-web-modify](https://github.com/shaoyouvip/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
-
-*   [shaojiankui/DMS](https://github.com/shaojiankui/DMS) - A Domain Management System built with Nuxt3 and Vue3
-
-*   [setube/stb](https://github.com/setube/stb) - Stb图床 - 现代化图片托管解决方案
-
-*   [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web) - Cloudflared-web is a docker image that packages both cloudflared cli and a simple Web UI to easily start or stop remotely-managed Cloudflare tunnel.
-
-*   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
-
-*   [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom
-
-*   [SkyDependence/tgDrive](https://github.com/SkyDependence/tgDrive) - 一款基于telegram bot的文件上传、分享、图床系统
-
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
-
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-
-*   [acanyo/home-for-vue](https://github.com/acanyo/home-for-vue) - 一个使用 Vue 3 + TypeScript + Vite 构建的现代化个人主页，具有博客文章展示、项目展示、联系表单等功能。
-
-*   [CNPAY/Cloudflare-R2-oss](https://github.com/CNPAY/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
-
-*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
-
-*   [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) - Web Interface for Cloudflare R2
-
-*   [Bartek532/book-searcher](https://github.com/Bartek532/book-searcher) - Easily search books throughout your library 📘
-
-*   [MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub) - https://github.com/MarSeventh/CloudFlare-ImgBed 项目的前端仓库。
-
-*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
-*   [super-tongyao/wall](https://github.com/super-tongyao/wall) - Wall是一款快速分享资源应用程序。俗称“照片墙、视频墙”，基于Vue3 + Spring Boot开发的云共享资源应用系统。
-
-*   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
-
-*   [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN/Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
-
-*   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
-
-*   [ljxi/Cloudflare-R2-oss](https://github.com/ljxi/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
-
-*   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
-
-*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
-
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [shangkouyou/Scu-Music](https://github.com/shangkouyou/Scu-Music) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [maomao1996/Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
-
-*   [FreeNowOrg/PixivNow](https://github.com/FreeNowOrg/PixivNow) - Provide Pixiv backend proxy & frontend service based on serverless technology
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
-
-*   [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
-
-*   [stilleshan/subweb](https://github.com/stilleshan/subweb) - subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
-
-*   [iiop123/workers-image-hosting](https://github.com/iiop123/workers-image-hosting) - cloudflare worker简易图床
-
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
-
-*   [zhongfly/sub-web](https://github.com/zhongfly/sub-web) -
-
-## Java
-
-*   [tgmeng-com/tgmeng-api](https://github.com/tgmeng-com/tgmeng-api) - 糖果梦热搜-后端
-
-*   [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-
-*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
-
-*   [jamebal/jmal-cloud-server](https://github.com/jamebal/jmal-cloud-server) - JmalCloud It's a private cloud storage project that makes it simple and secure to manage your files in the cloud. JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
-
-*   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
-
-*   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
-
-*   [tuituidan/team-nav](https://github.com/tuituidan/team-nav) - 前后端完整的网址导航服务，相较一般的靠配置生成的网址导航服务，本系统具有更强的后台管理能力，技术上主打一个轻量级，无任何依赖服务。
-
-*   [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS
-
-*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
-
-*   [oldchen888/AliYunPan](https://github.com/oldchen888/AliYunPan) - 自动备份文件到阿里云盘，备份工具，网盘备份，一款可以自动检测新增文件，自动上传，定时自动备份本地目录文件到【阿里云盘】等于一体的多功能云备份工具
-
-*   [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods.  Currently supports monitoring Apple stores in mainland China, Hong Kong, Macau, China Taiwan, Japan and other regions.
-
-*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
-
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
-
-## miscellaneous
-
-*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) -
-
-*   [gaoyb7/rclone-release](https://github.com/gaoyb7/rclone-release) - rclone 改版，兼容支持 115 网盘
-
-*   [dmitio/Idle-sales-page](https://github.com/dmitio/Idle-sales-page) - 可部署到cloudflare的闲置物品售卖单页
-
-*   [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol
-
-*   [Lanlan13-14/Rules](https://github.com/Lanlan13-14/Rules) - 适用于Mihomo/Stash客户端的Yaml配置文件
-
-*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
-
-*   [linux-surface/surface-pro-x](https://github.com/linux-surface/surface-pro-x) - Tracking and meta repository for Surface Pro X support.
-
-*   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
-
-*   [venkio/DomainTools](https://github.com/venkio/DomainTools) - 批量-快速-自定义-扫描200多个顶级域名有没有被注册，域名扫描，注册查询，批量扫描
-
-*   [a37836323/-chatgpt4.0-api-key](https://github.com/a37836323/-chatgpt4.0-api-key) - 🌥️ 云雾API | OpenAI官方中转服务 🌥️ https://yunwu.ai 🔥 官方价格0.5:1 🔥 0.5元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持
-
-*   [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
-
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
-
-*   [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
-
-*   [yumusb/nezha-new](https://github.com/yumusb/nezha-new) -
-
-*   [CNPAY/AdGuard](https://github.com/CNPAY/AdGuard) - 适用于AdGuard的去广告合并规则，每8个小时更新一次。
-
-*   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
-
-*   [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-
-*   [tenebo/HIMAC-Downloader](https://github.com/tenebo/HIMAC-Downloader) -
-
-*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
-
-*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
-
-*   [dmscode/WinSize](https://github.com/dmscode/WinSize) - AHK 的快速设定窗口尺寸的小工具
-
-*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
-
-*   [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile)
-
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
-
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-
-*   [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
-
-*   [hq450/fancyss\_history\_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
-
-*   [khvysofq/proxyer](https://github.com/khvysofq/proxyer) - 试用地址 http://test.proxyer.cn:6789/ 访问密码：12345678
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-*   [mymoonyue/Surge](https://github.com/mymoonyue/Surge) - Surge自用模块、脚本
-
-*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
-
-*   [xiaohucode/xiangse](https://github.com/xiaohucode/xiangse) - 香色闺阁视频源
-
-*   [fqfree/ssr](https://github.com/fqfree/ssr) - 科学上网
-
-*   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
-
-*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
-
-*   [veip007/GV\_GoogleVoice](https://github.com/veip007/GV_GoogleVoice) - GV自动保号脚本
-
-*   [laomingOfficial/RaspberryPiSakuraFRP](https://github.com/laomingOfficial/RaspberryPiSakuraFRP) -
-
 ## JavaScript
+
+*   [imsyy/DailyHotApi-Vercel](https://github.com/imsyy/DailyHotApi-Vercel) - 🔥 今日热榜 API - 一个聚合热门数据的 API 接口 - Vercel 快速部署
 
 *   [fishjar/kiss-proxy](https://github.com/fishjar/kiss-proxy) - 基于 cloudflare workers 的简单接口代理，可用于 KISS Translator 翻译服务。
 
@@ -556,6 +310,256 @@
 
 *   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 
+## Vue
+
+*   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
+
+*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 糖果梦热搜-前端
+
+*   [eooce/nav-item](https://github.com/eooce/nav-item) - 导航站
+
+*   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
+
+*   [solaireh3/home-vue](https://github.com/solaireh3/home-vue) -
+
+*   [anghunk/UserScript](https://github.com/anghunk/UserScript) - 这是一个实用的油猴脚本（UserScript）集合仓库，包含了多个实用的浏览器增强脚本。这些脚本旨在提升网页浏览体验，增加网站功能，优化用户界面等。
+
+*   [shaoyouvip/sub-web-modify](https://github.com/shaoyouvip/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+
+*   [shaojiankui/DMS](https://github.com/shaojiankui/DMS) - A Domain Management System built with Nuxt3 and Vue3
+
+*   [setube/stb](https://github.com/setube/stb) - Stb图床 - 现代化图片托管解决方案
+
+*   [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web) - Cloudflared-web is a docker image that packages both cloudflared cli and a simple Web UI to easily start or stop remotely-managed Cloudflare tunnel.
+
+*   [jiangrui1994/CloudSaver](https://github.com/jiangrui1994/CloudSaver) - 一个基于 Vue 3 + Express 的网盘资源搜索与转存工具。
+
+*   [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom
+
+*   [SkyDependence/tgDrive](https://github.com/SkyDependence/tgDrive) - 一款基于telegram bot的文件上传、分享、图床系统
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [acanyo/home-for-vue](https://github.com/acanyo/home-for-vue) - 一个使用 Vue 3 + TypeScript + Vite 构建的现代化个人主页，具有博客文章展示、项目展示、联系表单等功能。
+
+*   [CNPAY/Cloudflare-R2-oss](https://github.com/CNPAY/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+
+*   [jw-12138/r2-uploader](https://github.com/jw-12138/r2-uploader) - Web Interface for Cloudflare R2
+
+*   [Bartek532/book-searcher](https://github.com/Bartek532/book-searcher) - Easily search books throughout your library 📘
+
+*   [MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub) - https://github.com/MarSeventh/CloudFlare-ImgBed 项目的前端仓库。
+
+*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+*   [super-tongyao/wall](https://github.com/super-tongyao/wall) - Wall是一款快速分享资源应用程序。俗称“照片墙、视频墙”，基于Vue3 + Spring Boot开发的云共享资源应用系统。
+
+*   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
+
+*   [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN/Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
+
+*   [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
+
+*   [ljxi/Cloudflare-R2-oss](https://github.com/ljxi/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
+
+*   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+
+*   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
+
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [shangkouyou/Scu-Music](https://github.com/shangkouyou/Scu-Music) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [maomao1996/Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
+
+*   [FreeNowOrg/PixivNow](https://github.com/FreeNowOrg/PixivNow) - Provide Pixiv backend proxy & frontend service based on serverless technology
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
+
+*   [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
+
+*   [stilleshan/subweb](https://github.com/stilleshan/subweb) - subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
+
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+
+*   [iiop123/workers-image-hosting](https://github.com/iiop123/workers-image-hosting) - cloudflare worker简易图床
+
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
+
+*   [zhongfly/sub-web](https://github.com/zhongfly/sub-web) -
+
+## PHP
+
+*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+
+*   [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
+
+*   [AdmUU/Admin.IM](https://github.com/AdmUU/Admin.IM) - Admin.IM is an open source NetOps system. It uses the PHP Hyperf framework driven by Swoole, full coroutine scheduling + asynchronous I/O implementation, and the system performance is excellent.
+
+*   [reg233/whois-domain-lookup](https://github.com/reg233/whois-domain-lookup) - A simple WHOIS domain lookup website with strong TLD compatibility.
+
+*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
+
+*   [jerrybendy/get\_favicon](https://github.com/jerrybendy/get_favicon) - Get website's Favicon with PHP
+
+*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
+
+*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
+
+*   [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - Server for Passky (password manager)
+
+*   [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
+
+*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
+
+*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
+
+*   [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
+
+*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
+
+*   [GitHubPangHu/whoisQuery](https://github.com/GitHubPangHu/whoisQuery) - whois查询，可以查询任意后缀域名。
+
+*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
+
+*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
+
+*   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
+
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+
+## Java
+
+*   [tgmeng-com/tgmeng-api](https://github.com/tgmeng-com/tgmeng-api) - 糖果梦热搜-后端
+
+*   [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+
+*   [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
+
+*   [jamebal/jmal-cloud-server](https://github.com/jamebal/jmal-cloud-server) - JmalCloud It's a private cloud storage project that makes it simple and secure to manage your files in the cloud. JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
+
+*   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
+
+*   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
+
+*   [tuituidan/team-nav](https://github.com/tuituidan/team-nav) - 前后端完整的网址导航服务，相较一般的靠配置生成的网址导航服务，本系统具有更强的后台管理能力，技术上主打一个轻量级，无任何依赖服务。
+
+*   [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS
+
+*   [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+
+*   [oldchen888/AliYunPan](https://github.com/oldchen888/AliYunPan) - 自动备份文件到阿里云盘，备份工具，网盘备份，一款可以自动检测新增文件，自动上传，定时自动备份本地目录文件到【阿里云盘】等于一体的多功能云备份工具
+
+*   [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods.  Currently supports monitoring Apple stores in mainland China, Hong Kong, Macau, China Taiwan, Japan and other regions.
+
+*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
+
+## miscellaneous
+
+*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) -
+
+*   [gaoyb7/rclone-release](https://github.com/gaoyb7/rclone-release) - rclone 改版，兼容支持 115 网盘
+
+*   [dmitio/Idle-sales-page](https://github.com/dmitio/Idle-sales-page) - 可部署到cloudflare的闲置物品售卖单页
+
+*   [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol
+
+*   [Lanlan13-14/Rules](https://github.com/Lanlan13-14/Rules) - 适用于Mihomo/Stash客户端的Yaml配置文件
+
+*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+
+*   [linux-surface/surface-pro-x](https://github.com/linux-surface/surface-pro-x) - Tracking and meta repository for Surface Pro X support.
+
+*   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
+
+*   [venkio/DomainTools](https://github.com/venkio/DomainTools) - 批量-快速-自定义-扫描200多个顶级域名有没有被注册，域名扫描，注册查询，批量扫描
+
+*   [a37836323/-chatgpt4.0-api-key](https://github.com/a37836323/-chatgpt4.0-api-key) - 🌥️ 云雾API | OpenAI官方中转服务 🌥️ https://yunwu.ai 🔥 官方价格0.5:1 🔥 0.5元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持
+
+*   [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
+
+*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
+
+*   [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
+
+*   [yumusb/nezha-new](https://github.com/yumusb/nezha-new) -
+
+*   [CNPAY/AdGuard](https://github.com/CNPAY/AdGuard) - 适用于AdGuard的去广告合并规则，每8个小时更新一次。
+
+*   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
+
+*   [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
+*   [tenebo/HIMAC-Downloader](https://github.com/tenebo/HIMAC-Downloader) -
+
+*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
+
+*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
+
+*   [dmscode/WinSize](https://github.com/dmscode/WinSize) - AHK 的快速设定窗口尺寸的小工具
+
+*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+
+*   [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile)
+
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
+
+*   [hq450/fancyss\_history\_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
+
+*   [khvysofq/proxyer](https://github.com/khvysofq/proxyer) - 试用地址 http://test.proxyer.cn:6789/ 访问密码：12345678
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
+
+*   [mymoonyue/Surge](https://github.com/mymoonyue/Surge) - Surge自用模块、脚本
+
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
+
+*   [xiaohucode/xiangse](https://github.com/xiaohucode/xiangse) - 香色闺阁视频源
+
+*   [fqfree/ssr](https://github.com/fqfree/ssr) - 科学上网
+
+*   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
+
+*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
+
+*   [veip007/GV\_GoogleVoice](https://github.com/veip007/GV_GoogleVoice) - GV自动保号脚本
+
+*   [laomingOfficial/RaspberryPiSakuraFRP](https://github.com/laomingOfficial/RaspberryPiSakuraFRP) -
+
 ## Go
 
 *   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -588,7 +592,7 @@
 
 *   [beeper/bridge-manager](https://github.com/beeper/bridge-manager) - A tool for running self-hosted bridges with the Beeper Matrix server.
 
-*   [xuemian168/domain-scanner](https://github.com/xuemian168/domain-scanner) - 【域名扫描器】一个用Go语言编写的强大且灵活的域名注册可用性检查扫描工具 A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters.
+*   [xuemian168/domain-scanner](https://github.com/xuemian168/domain-scanner) - 【域名扫描器】一个用Go语言编写的强大且灵活的域名注册可用性检查扫描工具 A powerful and flexible domain name availability checker written in Go. This domain scanner helps you find available domain based on various patterns and filters.
 
 *   [yosebyte/nodepass](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.
 
@@ -682,7 +686,7 @@
 
 *   [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 
-*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - 耗子面板 (AcePanel) - 新一代服务器运维管理面板。简单轻量，高效运维。
 
 *   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
@@ -1297,10 +1301,6 @@
 *   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
 *   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
-*   [MatteCarra/AccA](https://github.com/MatteCarra/AccA) - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
-
-*   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 
 ## Roff
 
