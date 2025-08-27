@@ -443,6 +443,8 @@
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
+*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+
 *   [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 
 *   [alterem/mark-pic](https://github.com/alterem/mark-pic) - 一个现代化的 Markdown 转图片工具，支持实时预览、自定义样式和一键导出。
@@ -820,8 +822,6 @@
 ## miscellaneous
 
 *   [CNPAY/newsnow](https://github.com/CNPAY/newsnow) - Elegant reading of real-time and hottest news
-
-*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) -
 
 *   [gaoyb7/rclone-release](https://github.com/gaoyb7/rclone-release) - rclone 改版，兼容支持 115 网盘
 
