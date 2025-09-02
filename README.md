@@ -43,6 +43,8 @@
 
 ## Vue
 
+*   [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
+
 *   [maodeyu180/mao\_nav](https://github.com/maodeyu180/mao_nav) - 极简导航站
 
 *   [CNPAY/zy](https://github.com/CNPAY/zy) -
@@ -75,7 +77,7 @@
 
 *   [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom
 
-*   [SkyDependence/tgDrive](https://github.com/SkyDependence/tgDrive) - 一款基于telegram bot的文件上传、分享、图床系统
+*   [SkyDependence/tgDrive](https://github.com/SkyDependence/tgDrive) - 一款基于telegram bot的文件上传、分享、图床、网盘系统
 
 *   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 
@@ -920,8 +922,6 @@
 *   [fqfree/ssr](https://github.com/fqfree/ssr) - 科学上网
 
 *   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
-
-*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
 
 ## Java
 
