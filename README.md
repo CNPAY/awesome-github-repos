@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [Vue](#vue)
+*   [Dockerfile](#dockerfile)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [CSS](#css)
@@ -17,7 +18,6 @@
 *   [Astro](#astro)
 *   [Kotlin](#kotlin)
 *   [Roff](#roff)
-*   [Dockerfile](#dockerfile)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [Dart](#dart)
@@ -43,6 +43,8 @@
 
 ## Vue
 
+*   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
+
 *   [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
 
 *   [maodeyu180/mao\_nav](https://github.com/maodeyu180/mao_nav) - 极简导航站
@@ -54,6 +56,8 @@
 *   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 糖果梦热搜-前端
 
 *   [eooce/nav-item](https://github.com/eooce/nav-item) - 导航站
+
+*   [helloxz/zurl](https://github.com/helloxz/zurl) - Zurl是一个简洁易用的短链接系统。
 
 *   [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me
 
@@ -134,6 +138,18 @@
 *   [iiop123/workers-image-hosting](https://github.com/iiop123/workers-image-hosting) - cloudflare worker简易图床
 
 *   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
+
+## Dockerfile
+
+*   [HalcyonAzure/lsky-pro-docker](https://github.com/HalcyonAzure/lsky-pro-docker) - ☁️兰空图床(Lsky Pro) - Docker自动构建，支持多平台
+
+*   [yangchuansheng/ip\_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+*   [einverne/dockerfile](https://github.com/einverne/dockerfile) - A collection of dockerfile I use
+
+*   [Hideipnetwork/hideipnetwork-web](https://github.com/Hideipnetwork/hideipnetwork-web) - Based on Node.js + Service Woker
 
 ## TypeScript
 
@@ -226,8 +242,6 @@
 *   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 
 *   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
-
-*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 
 *   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
 
@@ -381,7 +395,7 @@
 
 *   [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -
 
-*   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) -
+*   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
 
 *   [gavvvr/obsidian-imgur-plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com
 
@@ -837,10 +851,6 @@
 
 *   [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
 
-*   [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
-
-*   [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
-
 ## miscellaneous
 
 *   [CNPAY/newsnow](https://github.com/CNPAY/newsnow) - Elegant reading of real-time and hottest news
@@ -987,6 +997,8 @@
 
 *   [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 
+*   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
+
 *   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -1071,7 +1083,7 @@
 
 *   [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 
-*   [tnborg/panel](https://github.com/tnborg/panel) - AcePanel（原耗子面板）是新一代服务器运维管理面板。简单轻量，高效运维。
+*   [tnborg/panel](https://github.com/tnborg/panel) - AcePanel（原耗子面板）- 简单轻量，高效运维
 
 *   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
@@ -1084,8 +1096,6 @@
 *   [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) - 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 
 ## Python
-
-*   [helloxz/zurl](https://github.com/helloxz/zurl) - Zurl是一个简洁易用的短链接系统。
 
 *   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
 
@@ -1344,16 +1354,6 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-## Dockerfile
-
-*   [yangchuansheng/ip\_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-
-*   [einverne/dockerfile](https://github.com/einverne/dockerfile) - A collection of dockerfile I use
-
-*   [Hideipnetwork/hideipnetwork-web](https://github.com/Hideipnetwork/hideipnetwork-web) - Based on Node.js + Service Woker
 
 ## Rust
 
