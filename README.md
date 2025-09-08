@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Dockerfile](#dockerfile)
 *   [TypeScript](#typescript)
@@ -9,11 +11,9 @@
 *   [CSS](#css)
 *   [C#](#c)
 *   [PHP](#php)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Go](#go)
-*   [Python](#python)
 *   [Shell](#shell)
 *   [Astro](#astro)
 *   [Kotlin](#kotlin)
@@ -40,6 +40,378 @@
 *   [Mermaid](#mermaid)
 *   [Perl](#perl)
 *   [CoffeeScript](#coffeescript)
+
+## Python
+
+*   [eraycc/leaflow-auto](https://github.com/eraycc/leaflow-auto) - leaflow 多账户 自动签到 控制面板 支持 docker 部署
+
+*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+
+*   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+
+*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+
+*   [Rsxio/DomainScannerDnsVersion](https://github.com/Rsxio/DomainScannerDnsVersion) -
+
+*   [stx-x/domain-scanner-4-nodeseeker](https://github.com/stx-x/domain-scanner-4-nodeseeker) -
+
+*   [tunecc/DuPan](https://github.com/tunecc/DuPan) - 百度网盘会员签到
+
+*   [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+
+*   [kokojacket/baidu-autosave](https://github.com/kokojacket/baidu-autosave) - 一个基于Flask的百度网盘自动转存系统，支持多用户管理、定时任务调度和通知推送。
+
+*   [Yorkian/knock](https://github.com/Yorkian/knock) - 是谁在敲打我窗
+
+*   [xiaoyaohanyue/lsky-bot](https://github.com/xiaoyaohanyue/lsky-bot) - 这是一个是用于兰空图床的TG机器人。
+
+*   [xxxume/telegram\_video\_downloader](https://github.com/xxxume/telegram_video_downloader) -
+
+*   [ymh1146/web-monitoring](https://github.com/ymh1146/web-monitoring) - 一个简单高效的网站（域名）状态监控工具。
+
+*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+
+*   [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor) - telegram群消息监测与定时发送消息和邮件通知
+
+*   [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
+
+*   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+
+*   [WowYiJiu/telegram\_info\_export](https://github.com/WowYiJiu/telegram_info_export) - 导出Telegram信息
+
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+
+*   [likeflyme/cloudbak](https://github.com/likeflyme/cloudbak) - 微信云备份，备份到服务器、Docker、NAS，Web访问。
+
+*   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.
+
+*   [sz3/cimbar](https://github.com/sz3/cimbar) - color-icon-matrix barcodes. Proof of concept implementation.
+
+*   [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
+
+*   [icloud-photos-downloader/icloud\_photos\_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+
+*   [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
+
+*   [qy527145/crack](https://github.com/qy527145/crack) -
+
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+
+*   [GenshinMinecraft/Cloudflare-Workers-Ai-Telegram-Bot](https://github.com/GenshinMinecraft/Cloudflare-Workers-Ai-Telegram-Bot) - 一个很简单很简单的 Telegram AI Bot，基于 Python + Cloudflare Workers AI API
+
+*   [ThinkerWen/TicketMonitoring](https://github.com/ThinkerWen/TicketMonitoring) - 大麦、猫眼、纷玩岛，票星球，演唱会回流票监控
+
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+
+*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+
+*   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+
+*   [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
+*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
+
+*   [ershiyi21/myprogram](https://github.com/ershiyi21/myprogram) -
+
+*   [jaaksii/sublink](https://github.com/jaaksii/sublink) - 开源节点订阅转换生成管理系统，集成前后端部署在docker
+
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
+
+*   [CalmXin/xin-whois](https://github.com/CalmXin/xin-whois) - 支持多种后缀，功能强大全面，界面美观优雅，无广告，打造最实用的终极Whois查询工具
+
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+
+*   [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
+
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+
+*   [Dineshkarthik/telegram\_media\_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
+
+*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
+
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+
+*   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
+
+## JavaScript
+
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+
+*   [y-shi23/MeowNocode](https://github.com/y-shi23/MeowNocode) - memos类开源高颜值便签应用
+
+*   [kamanfaiz/CF-Server-AutoCheck](https://github.com/kamanfaiz/CF-Server-AutoCheck) - 采用Cloudflare的workers的方式，部署服务器监控系统，帮助用户进行服务器到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
+
+*   [kamanfaiz/CF-Domain-AutoCheck](https://github.com/kamanfaiz/CF-Domain-AutoCheck) - 采用Cloudflare的workers的方式，部署域名监控系统，帮助用户进行域名到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
+
+*   [imsyy/DailyHotApi-Vercel](https://github.com/imsyy/DailyHotApi-Vercel) - 🔥 今日热榜 API - 一个聚合热门数据的 API 接口 - Vercel 快速部署
+
+*   [fishjar/kiss-proxy](https://github.com/fishjar/kiss-proxy) - 基于 cloudflare workers 的简单接口代理，可用于 KISS Translator 翻译服务。
+
+*   [lilu0826/alitv\_openlist](https://github.com/lilu0826/alitv_openlist) - 阿里云盘TV版token获取工具，支持OpenList:https://github.com/OpenListTeam/OpenList
+
+*   [rbetree/menav](https://github.com/rbetree/menav) - 一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏
+
+*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
+
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+*   [deerwan/homepage\_demo](https://github.com/deerwan/homepage_demo) - 简约的个人主页，导航页
+
+*   [denghongcai/forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service
+
+*   [wangwangit/nav](https://github.com/wangwangit/nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
+
+*   [Herbertzz/picgo-plugin-minio](https://github.com/Herbertzz/picgo-plugin-minio) -
+
+*   [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
+
+*   [CNPAY/CloudPaste](https://github.com/CNPAY/CloudPaste) - 基于Cloudflare的在线文本/大文件分享平台，支持多种语法 Markdown 渲染、阅后即焚、S3聚合存储、密码保护等功能，可作为WebDav挂载，支持Docker部署。
+
+*   [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) -
+
+*   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
+
+*   [BYR-Navi/BYR-Navi](https://github.com/BYR-Navi/BYR-Navi) - A Light-Weight and Configurable Navigation Website Framework (for BYR)
+
+*   [Venompool888/CloudflareDNS-TGBot](https://github.com/Venompool888/CloudflareDNS-TGBot) -
+
+*   [kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for zte devices (F50 | U30 Air)
+
+*   [ricocc/uiineed-todo-list](https://github.com/ricocc/uiineed-todo-list) - Todo List Online - Minimalist, No-Login Required Web Todo App
+
+*   [star7th/jisuxiang](https://github.com/star7th/jisuxiang) - JiSuXiang  is a high-quality, visually appealing online developer toolbox that provides a comprehensive collection of essential development tools for programmers
+
+*   [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
+
+*   [EvanTop/EvanNav](https://github.com/EvanTop/EvanNav) - EvanNav：是一款具备轻盈设计和优雅体验且专属你的个人私有化导航和收藏！
+
+*   [woniu336/domain-whois](https://github.com/woniu336/domain-whois) -
+
+*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3 aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
+
+*   [bestK/tv](https://github.com/bestK/tv) -
+
+*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+
+*   [Keywos/rule](https://github.com/Keywos/rule) -
+
+*   [CNPAY/domain-manager](https://github.com/CNPAY/domain-manager) -
+
+*   [es-v/SimpleSearch](https://github.com/es-v/SimpleSearch) - A very simple navigational search homepage with a background using Bing's image API and support for adding search engines on your own.
+
+*   [levywang/avhub](https://github.com/levywang/avhub) - R18 Resource Search & Management Tool
+
+*   [ccbikai/ip-api](https://github.com/ccbikai/ip-api) - 利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。
+
+*   [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
+
+*   [iamshaynez/telegram-counter](https://github.com/iamshaynez/telegram-counter) -
+
+*   [tnnevol/ACL4SSR](https://github.com/tnnevol/ACL4SSR) - clashverge Script/ clash ACL/ clash script
+
+*   [zcp1997/telegram-cf-dns-bot](https://github.com/zcp1997/telegram-cf-dns-bot) - A telegram bot can manage your cloudflare domain dns records
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
+
+*   [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
+
+*   [52hzxgfy/Notion-Web-Clipper-0120](https://github.com/52hzxgfy/Notion-Web-Clipper-0120) -
+
+*   [kangarooking/bookmark-sage](https://github.com/kangarooking/bookmark-sage) - Bookmark Sage 是一个基于 AI 的 Chrome 浏览器扩展，能够智能地管理和组织您的浏览器书签。它使用 AI 技术自动分析网页内容，为书签推荐最合适的书签分类，帮助用户保持书签结构的整洁与条理。
+
+*   [chaitin/xtools](https://github.com/chaitin/xtools) -
+
+*   [Yeo-x/ShareDL](https://github.com/Yeo-x/ShareDL) - 基于 Cloudflare Workers 的代理下载和文件分享服务，支持直接代理下载、短链接分享和 AList, Github 文件预览。
+
+*   [sun0225SUN/lusion](https://github.com/sun0225SUN/lusion) - 旧版 https://lusion.co/about
+
+*   [1143520/txt-link](https://github.com/1143520/txt-link) -
+
+*   [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
+
+*   [kasuganosoras/cloudflare-worker-blog](https://github.com/kasuganosoras/cloudflare-worker-blog) - ☁️ Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器
+
+*   [sleepwood/CF-Worker-Dir](https://github.com/sleepwood/CF-Worker-Dir) - A web directories base on Cloudflare worker.
+
+*   [mengkunsoft/MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) - ⛔【停止维护】一个在线音乐播放器（仅 UI，无功能）
+
+*   [small-haozi/worker-SXbot.js](https://github.com/small-haozi/worker-SXbot.js) -
+
+*   [0-RTT/JSimages](https://github.com/0-RTT/JSimages) - 基于 Cloudflare R2 储存的图床/视频床服务
+
+*   [CNPAY/domainlist](https://github.com/CNPAY/domainlist) -
+
+*   [lyleOuO/domain](https://github.com/lyleOuO/domain) -
+
+*   [CNPAY/surge-conf](https://github.com/CNPAY/surge-conf) - 自用代理配置
+
+*   [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
+
+*   [zzzhhh1/WorkerVless2sub1](https://github.com/zzzhhh1/WorkerVless2sub1) - 这个是一个通过 Cloudflare Workers 搭建，自动生成优选线路 VLESS 节点订阅内容生成器
+
+*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
+
+*   [Starry-Sky-World/BPB-Worker-Panel-Chinese](https://github.com/Starry-Sky-World/BPB-Worker-Panel-Chinese) - BPB-Worker-Panel汉化啊啊啊！本人小学生，给点Star吧！不容易啊！开发者@Starry-Sky-World！
+
+*   [xiao-cold/efilen-webdav](https://github.com/xiao-cold/efilen-webdav) - A Docker-ready WebDAV server for Filen-WebDAV, supporting multiple accounts.
+
+*   [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) - 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
+
+*   [YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON) - \[Web] Get app icons from App Store / 从 App Store 上获取应用图标
+
+*   [OuOumm/node-proxy](https://github.com/OuOumm/node-proxy) - 一个通过node实现的反向代理工具
+
+*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+
+*   [certd/certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
+
+*   [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
+
+*   [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker) - Bark Server on Cloudflare Worker
+
+*   [MikeWang000000/ClashScan](https://github.com/MikeWang000000/ClashScan) - 在线检测您是否在使用 Clash
+
+*   [snakeying/GPT-Telegram-Bot](https://github.com/snakeying/GPT-Telegram-Bot) - Your own GPT Telegram Bot on Vercel
+
+*   [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator) - An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
+
+*   [Shadownc/tuapi-img](https://github.com/Shadownc/tuapi-img) -
+
+*   [bestZwei/ipfsbed](https://github.com/bestZwei/ipfsbed) - IPFSBED - Decentralized IPFS File Hosting Service
+
+*   [hmhm2022/Card-Tab](https://github.com/hmhm2022/Card-Tab) - ✨一个部署在CF的轻量化导航页面，可移动卡片式书签，方便管理
+
+*   [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love\_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
+
+*   [KKKKKCAT/CF-IPInfo](https://github.com/KKKKKCAT/CF-IPInfo) - 一個強大、無服務器且免費的 IP 信息儀表板解決方案，由 Cloudflare Workers 驅動，具有用戶友好的界面和多語言支持。
+
+*   [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+
+*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
+
+*   [jsbxyyx/mp-mimahome](https://github.com/jsbxyyx/mp-mimahome) - 密码管理小程序
+
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
+
+*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+
+*   [jyx04/oaifree-helper](https://github.com/jyx04/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker\&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
+
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
+
+*   [dmitio/domains](https://github.com/dmitio/domains) -
+
+*   [ypq123456789/domainkeeper](https://github.com/ypq123456789/domainkeeper) - 域名可视化展示面板
+
+*   [bravekingzhang/gpt-frontend-code-gen](https://github.com/bravekingzhang/gpt-frontend-code-gen) - 一个生成前端页面和组件代码的神器，支持Chakra UI 、ShadcnUI ，支持本地大模型、可对话不断调整效果，直到获得满意的效果
+
+*   [lengsukq/wechat-bot](https://github.com/lengsukq/wechat-bot) - 🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
+
+*   [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - Auto-scrubbing of  articles and auto-likes in discourse
+
+*   [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
+
+*   [elog-x/notion-hexo](https://github.com/elog-x/notion-hexo) - Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案
+
+*   [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于 Cloudflare Worker 和 Pages 的图床/视频床/文件床，轻松实现无服务器部署！
+
+*   [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
+
+*   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+
+*   [mjjonone/sub-worker](https://github.com/mjjonone/sub-worker) - Worker Subscription
+
+*   [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+
+*   [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
+
+*   [xiaozhou26/gh-photo](https://github.com/xiaozhou26/gh-photo) - 一个兴趣使然的网页版图床，可以存一些图片到GitHub
+
+*   [gaboolic/cloudflare-reverse-fast](https://github.com/gaboolic/cloudflare-reverse-fast) - cloudflare加速openai等接口
+
+*   [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
+
+*   [move132/Url-Shorten-Worker](https://github.com/move132/Url-Shorten-Worker) - 使用 Cloudflare Worker 创建的 URL 缩短器, 支持保存历史记录和二维码查看
+
+*   [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
+
+*   [Arronlong/cfblog-plus](https://github.com/Arronlong/cfblog-plus) - A Blog Powered By Cloudflare Workers and KV
+
+*   [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
+
+*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
+
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+*   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
+
+*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
+
+*   [LloydAsp/nfd](https://github.com/LloydAsp/nfd) - No Fraud / Node Forward Bot
+
+*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+
+*   [wang-useful/cfblog-plus](https://github.com/wang-useful/cfblog-plus) - A Blog Powered By Cloudflare Workers and KV
+
+*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
+
+*   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
+
+*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
+
+*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
+
+*   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
+
+*   [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) - 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过调用 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频\&ACG&小说&漫画网站上的弹窗广告&视频广告\&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
+
+*   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
+
+*   [henryxrl/SimpleTextReader](https://github.com/henryxrl/SimpleTextReader) - SimpleTextReader enhances plain TXT reading with a refined, elegant experience.
+
+*   [Suto-Commune/Kindle-Reader-Web-CLI](https://github.com/Suto-Commune/Kindle-Reader-Web-CLI) - 让书源在kindle上也能使用！
+
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+
+*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
+
+*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
+
+*   [AoEiuV020/Url-Shorten-Worker](https://github.com/AoEiuV020/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
+
+*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
+
+*   [Zeaphyou/GetSomeCats](https://github.com/Zeaphyou/GetSomeCats) -
+
+*   [Orz-3/QuantumultX](https://github.com/Orz-3/QuantumultX) -
+
+*   [YuanzhuL/netdata-cpatch](https://github.com/YuanzhuL/netdata-cpatch) - netdata中文简体汉化
+
+*   [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
+
+*   [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 ## Vue
 
@@ -585,272 +957,6 @@
 
 *   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
 
-## JavaScript
-
-*   [y-shi23/MeowNocode](https://github.com/y-shi23/MeowNocode) - memos类开源高颜值便签应用
-
-*   [kamanfaiz/CF-Server-AutoCheck](https://github.com/kamanfaiz/CF-Server-AutoCheck) - 采用Cloudflare的workers的方式，部署服务器监控系统，帮助用户进行服务器到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
-
-*   [kamanfaiz/CF-Domain-AutoCheck](https://github.com/kamanfaiz/CF-Domain-AutoCheck) - 采用Cloudflare的workers的方式，部署域名监控系统，帮助用户进行域名到期的监控，支持telegram通知，喜欢的话就点个星星吧~~
-
-*   [imsyy/DailyHotApi-Vercel](https://github.com/imsyy/DailyHotApi-Vercel) - 🔥 今日热榜 API - 一个聚合热门数据的 API 接口 - Vercel 快速部署
-
-*   [fishjar/kiss-proxy](https://github.com/fishjar/kiss-proxy) - 基于 cloudflare workers 的简单接口代理，可用于 KISS Translator 翻译服务。
-
-*   [lilu0826/alitv\_openlist](https://github.com/lilu0826/alitv_openlist) - 阿里云盘TV版token获取工具，支持OpenList:https://github.com/OpenListTeam/OpenList
-
-*   [rbetree/menav](https://github.com/rbetree/menav) - 一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏
-
-*   [wangwangit/SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
-
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-
-*   [deerwan/homepage\_demo](https://github.com/deerwan/homepage_demo) - 简约的个人主页，导航页
-
-*   [denghongcai/forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service
-
-*   [wangwangit/nav](https://github.com/wangwangit/nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
-
-*   [Herbertzz/picgo-plugin-minio](https://github.com/Herbertzz/picgo-plugin-minio) -
-
-*   [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
-
-*   [CNPAY/CloudPaste](https://github.com/CNPAY/CloudPaste) - 基于Cloudflare的在线文本/大文件分享平台，支持多种语法 Markdown 渲染、阅后即焚、S3聚合存储、密码保护等功能，可作为WebDav挂载，支持Docker部署。
-
-*   [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) -
-
-*   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
-
-*   [BYR-Navi/BYR-Navi](https://github.com/BYR-Navi/BYR-Navi) - A Light-Weight and Configurable Navigation Website Framework (for BYR)
-
-*   [Venompool888/CloudflareDNS-TGBot](https://github.com/Venompool888/CloudflareDNS-TGBot) -
-
-*   [kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for zte devices (F50 | U30 Air)
-
-*   [ricocc/uiineed-todo-list](https://github.com/ricocc/uiineed-todo-list) - Todo List Online - Minimalist, No-Login Required Web Todo App
-
-*   [star7th/jisuxiang](https://github.com/star7th/jisuxiang) - JiSuXiang  is a high-quality, visually appealing online developer toolbox that provides a comprehensive collection of essential development tools for programmers
-
-*   [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
-
-*   [EvanTop/EvanNav](https://github.com/EvanTop/EvanNav) - EvanNav：是一款具备轻盈设计和优雅体验且专属你的个人私有化导航和收藏！
-
-*   [woniu336/domain-whois](https://github.com/woniu336/domain-whois) -
-
-*   [ling-drag0n/CloudPaste](https://github.com/ling-drag0n/CloudPaste) - A Cloudflare-based online text/large file sharing platform that supports multiple syntax Markdown rendering, self-destructing messages, S3 aggregated storage, password protection, and more. It can be mounted as WebDAV and supports Docker deployment.
-
-*   [bestK/tv](https://github.com/bestK/tv) -
-
-*   [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
-
-*   [Keywos/rule](https://github.com/Keywos/rule) -
-
-*   [CNPAY/domain-manager](https://github.com/CNPAY/domain-manager) -
-
-*   [es-v/SimpleSearch](https://github.com/es-v/SimpleSearch) - A very simple navigational search homepage with a background using Bing's image API and support for adding search engines on your own.
-
-*   [levywang/avhub](https://github.com/levywang/avhub) - R18 Resource Search & Management Tool
-
-*   [ccbikai/ip-api](https://github.com/ccbikai/ip-api) - 利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。
-
-*   [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
-
-*   [iamshaynez/telegram-counter](https://github.com/iamshaynez/telegram-counter) -
-
-*   [tnnevol/ACL4SSR](https://github.com/tnnevol/ACL4SSR) - clashverge Script/ clash ACL/ clash script
-
-*   [zcp1997/telegram-cf-dns-bot](https://github.com/zcp1997/telegram-cf-dns-bot) - A telegram bot can manage your cloudflare domain dns records
-
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
-
-*   [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
-
-*   [52hzxgfy/Notion-Web-Clipper-0120](https://github.com/52hzxgfy/Notion-Web-Clipper-0120) -
-
-*   [kangarooking/bookmark-sage](https://github.com/kangarooking/bookmark-sage) - Bookmark Sage 是一个基于 AI 的 Chrome 浏览器扩展，能够智能地管理和组织您的浏览器书签。它使用 AI 技术自动分析网页内容，为书签推荐最合适的书签分类，帮助用户保持书签结构的整洁与条理。
-
-*   [chaitin/xtools](https://github.com/chaitin/xtools) -
-
-*   [Yeo-x/ShareDL](https://github.com/Yeo-x/ShareDL) - 基于 Cloudflare Workers 的代理下载和文件分享服务，支持直接代理下载、短链接分享和 AList, Github 文件预览。
-
-*   [sun0225SUN/lusion](https://github.com/sun0225SUN/lusion) - 旧版 https://lusion.co/about
-
-*   [1143520/txt-link](https://github.com/1143520/txt-link) -
-
-*   [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
-
-*   [kasuganosoras/cloudflare-worker-blog](https://github.com/kasuganosoras/cloudflare-worker-blog) - ☁️ Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器
-
-*   [sleepwood/CF-Worker-Dir](https://github.com/sleepwood/CF-Worker-Dir) - A web directories base on Cloudflare worker.
-
-*   [mengkunsoft/MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) - ⛔【停止维护】一个在线音乐播放器（仅 UI，无功能）
-
-*   [small-haozi/worker-SXbot.js](https://github.com/small-haozi/worker-SXbot.js) -
-
-*   [0-RTT/JSimages](https://github.com/0-RTT/JSimages) - 基于 Cloudflare R2 储存的图床/视频床服务
-
-*   [CNPAY/domainlist](https://github.com/CNPAY/domainlist) -
-
-*   [lyleOuO/domain](https://github.com/lyleOuO/domain) -
-
-*   [CNPAY/surge-conf](https://github.com/CNPAY/surge-conf) - 自用代理配置
-
-*   [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
-
-*   [zzzhhh1/WorkerVless2sub1](https://github.com/zzzhhh1/WorkerVless2sub1) - 这个是一个通过 Cloudflare Workers 搭建，自动生成优选线路 VLESS 节点订阅内容生成器
-
-*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
-
-*   [Starry-Sky-World/BPB-Worker-Panel-Chinese](https://github.com/Starry-Sky-World/BPB-Worker-Panel-Chinese) - BPB-Worker-Panel汉化啊啊啊！本人小学生，给点Star吧！不容易啊！开发者@Starry-Sky-World！
-
-*   [xiao-cold/efilen-webdav](https://github.com/xiao-cold/efilen-webdav) - A Docker-ready WebDAV server for Filen-WebDAV, supporting multiple accounts.
-
-*   [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) - 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能
-
-*   [YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON) - \[Web] Get app icons from App Store / 从 App Store 上获取应用图标
-
-*   [OuOumm/node-proxy](https://github.com/OuOumm/node-proxy) - 一个通过node实现的反向代理工具
-
-*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
-
-*   [certd/certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
-
-*   [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
-
-*   [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker) - Bark Server on Cloudflare Worker
-
-*   [MikeWang000000/ClashScan](https://github.com/MikeWang000000/ClashScan) - 在线检测您是否在使用 Clash
-
-*   [snakeying/GPT-Telegram-Bot](https://github.com/snakeying/GPT-Telegram-Bot) - Your own GPT Telegram Bot on Vercel
-
-*   [Adonis142857/Real-Address-Generator](https://github.com/Adonis142857/Real-Address-Generator) - An address generator for populating real addresses for China, USA, UK, Germany, France and 22 other countries.一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址
-
-*   [Shadownc/tuapi-img](https://github.com/Shadownc/tuapi-img) -
-
-*   [bestZwei/ipfsbed](https://github.com/bestZwei/ipfsbed) - IPFSBED - Decentralized IPFS File Hosting Service
-
-*   [hmhm2022/Card-Tab](https://github.com/hmhm2022/Card-Tab) - ✨一个部署在CF的轻量化导航页面，可移动卡片式书签，方便管理
-
-*   [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love\_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到 ClawCloud\Render\Koyeb
-
-*   [KKKKKCAT/CF-IPInfo](https://github.com/KKKKKCAT/CF-IPInfo) - 一個強大、無服務器且免費的 IP 信息儀表板解決方案，由 Cloudflare Workers 驅動，具有用戶友好的界面和多語言支持。
-
-*   [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
-
-*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
-
-*   [jsbxyyx/mp-mimahome](https://github.com/jsbxyyx/mp-mimahome) - 密码管理小程序
-
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
-
-*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
-
-*   [jyx04/oaifree-helper](https://github.com/jyx04/oaifree-helper) - 本项目基于始皇的new站服务。利用单个Worker\&Pages优雅访问始皇镜像站，组建合租共享车队。包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。全程无需服务器和域名，无需改代码
-
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
-*   [dmitio/domains](https://github.com/dmitio/domains) -
-
-*   [ypq123456789/domainkeeper](https://github.com/ypq123456789/domainkeeper) - 域名可视化展示面板
-
-*   [bravekingzhang/gpt-frontend-code-gen](https://github.com/bravekingzhang/gpt-frontend-code-gen) - 一个生成前端页面和组件代码的神器，支持Chakra UI 、ShadcnUI ，支持本地大模型、可对话不断调整效果，直到获得满意的效果
-
-*   [lengsukq/wechat-bot](https://github.com/lengsukq/wechat-bot) - 🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
-
-*   [14790897/auto-read-liunxdo](https://github.com/14790897/auto-read-liunxdo) - Auto-scrubbing of  articles and auto-likes in discourse
-
-*   [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
-
-*   [elog-x/notion-hexo](https://github.com/elog-x/notion-hexo) - Notion + Elog + Hexo + GitHub Actions + Vercel 博客解决方案
-
-*   [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于 Cloudflare Worker 和 Pages 的图床/视频床/文件床，轻松实现无服务器部署！
-
-*   [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
-
-*   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
-
-*   [mjjonone/sub-worker](https://github.com/mjjonone/sub-worker) - Worker Subscription
-
-*   [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器
-
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
-
-*   [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
-
-*   [xiaozhou26/gh-photo](https://github.com/xiaozhou26/gh-photo) - 一个兴趣使然的网页版图床，可以存一些图片到GitHub
-
-*   [gaboolic/cloudflare-reverse-fast](https://github.com/gaboolic/cloudflare-reverse-fast) - cloudflare加速openai等接口
-
-*   [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
-
-*   [move132/Url-Shorten-Worker](https://github.com/move132/Url-Shorten-Worker) - 使用 Cloudflare Worker 创建的 URL 缩短器, 支持保存历史记录和二维码查看
-
-*   [antongunov/favicongrabber.com](https://github.com/antongunov/favicongrabber.com) - Grabbing favicons from any domain
-
-*   [Arronlong/cfblog-plus](https://github.com/Arronlong/cfblog-plus) - A Blog Powered By Cloudflare Workers and KV
-
-*   [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
-
-*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
-
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-*   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
-
-*   [Z-Siqi/Clash-for-Windows\_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
-
-*   [LloydAsp/nfd](https://github.com/LloydAsp/nfd) - No Fraud / Node Forward Bot
-
-*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-
-*   [wang-useful/cfblog-plus](https://github.com/wang-useful/cfblog-plus) - A Blog Powered By Cloudflare Workers and KV
-
-*   [imoki/sign\_script](https://github.com/imoki/sign_script) - 适配airscript1.0、airscript2.0
-
-*   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
-
-*   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
-
-*   [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
-
-*   [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
-
-*   [limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo) - 毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过调用 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M3U8)/MissAv/91porn/hitomi/紳士漫畫/禁漫天堂/等视频\&ACG&小说&漫画网站上的弹窗广告&视频广告\&Gif图片广告等，保持网页清爽干净无打扰！ P.S. 欢迎提交issue
-
-*   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
-
-*   [henryxrl/SimpleTextReader](https://github.com/henryxrl/SimpleTextReader) - SimpleTextReader enhances plain TXT reading with a refined, elegant experience.
-
-*   [Suto-Commune/Kindle-Reader-Web-CLI](https://github.com/Suto-Commune/Kindle-Reader-Web-CLI) - 让书源在kindle上也能使用！
-
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-
-*   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
-
-*   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
-
-*   [AoEiuV020/Url-Shorten-Worker](https://github.com/AoEiuV020/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
-
-*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-
-*   [Zeaphyou/GetSomeCats](https://github.com/Zeaphyou/GetSomeCats) -
-
-*   [Orz-3/QuantumultX](https://github.com/Orz-3/QuantumultX) -
-
-*   [YuanzhuL/netdata-cpatch](https://github.com/YuanzhuL/netdata-cpatch) - netdata中文简体汉化
-
-*   [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
-
-*   [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
-
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
-
 ## miscellaneous
 
 *   [CNPAY/newsnow](https://github.com/CNPAY/newsnow) - Elegant reading of real-time and hottest news
@@ -1095,110 +1201,6 @@
 
 *   [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) - 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 
-## Python
-
-*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
-
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
-
-*   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
-
-*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
-
-*   [Rsxio/DomainScannerDnsVersion](https://github.com/Rsxio/DomainScannerDnsVersion) -
-
-*   [stx-x/domain-scanner-4-nodeseeker](https://github.com/stx-x/domain-scanner-4-nodeseeker) -
-
-*   [tunecc/DuPan](https://github.com/tunecc/DuPan) - 百度网盘会员签到
-
-*   [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
-
-*   [kokojacket/baidu-autosave](https://github.com/kokojacket/baidu-autosave) - 一个基于Flask的百度网盘自动转存系统，支持多用户管理、定时任务调度和通知推送。
-
-*   [Yorkian/knock](https://github.com/Yorkian/knock) - 是谁在敲打我窗
-
-*   [xiaoyaohanyue/lsky-bot](https://github.com/xiaoyaohanyue/lsky-bot) - 这是一个是用于兰空图床的TG机器人。
-
-*   [xxxume/telegram\_video\_downloader](https://github.com/xxxume/telegram_video_downloader) -
-
-*   [ymh1146/web-monitoring](https://github.com/ymh1146/web-monitoring) - 一个简单高效的网站（域名）状态监控工具。
-
-*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-
-*   [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor) - telegram群消息监测与定时发送消息和邮件通知
-
-*   [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
-
-*   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
-
-*   [WowYiJiu/telegram\_info\_export](https://github.com/WowYiJiu/telegram_info_export) - 导出Telegram信息
-
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-
-*   [likeflyme/cloudbak](https://github.com/likeflyme/cloudbak) - 微信云备份，备份到服务器、Docker、NAS，Web访问。
-
-*   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.
-
-*   [sz3/cimbar](https://github.com/sz3/cimbar) - color-icon-matrix barcodes. Proof of concept implementation.
-
-*   [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
-
-*   [icloud-photos-downloader/icloud\_photos\_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
-
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-*   [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
-
-*   [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
-
-*   [qy527145/crack](https://github.com/qy527145/crack) -
-
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-
-*   [GenshinMinecraft/Cloudflare-Workers-Ai-Telegram-Bot](https://github.com/GenshinMinecraft/Cloudflare-Workers-Ai-Telegram-Bot) - 一个很简单很简单的 Telegram AI Bot，基于 Python + Cloudflare Workers AI API
-
-*   [ThinkerWen/TicketMonitoring](https://github.com/ThinkerWen/TicketMonitoring) - 大麦、猫眼、纷玩岛，票星球，演唱会回流票监控
-
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-
-*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
-
-*   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-
-*   [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
-*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
-
-*   [ershiyi21/myprogram](https://github.com/ershiyi21/myprogram) -
-
-*   [jaaksii/sublink](https://github.com/jaaksii/sublink) - 开源节点订阅转换生成管理系统，集成前后端部署在docker
-
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
-
-*   [CalmXin/xin-whois](https://github.com/CalmXin/xin-whois) - 支持多种后缀，功能强大全面，界面美观优雅，无广告，打造最实用的终极Whois查询工具
-
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
-
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-
-*   [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
-
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
-
-*   [Dineshkarthik/telegram\_media\_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
-
-*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
-
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
-
-*   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
-
 ## Shell
 
 *   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
@@ -1438,8 +1440,6 @@
 *   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
 *   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
 ## Batchfile
 
