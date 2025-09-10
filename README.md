@@ -169,6 +169,8 @@
 
 *   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
+*   [deerwan/homepage](https://github.com/deerwan/homepage) - 个人主页 导航页
+
 *   [deerwan/homepage\_demo](https://github.com/deerwan/homepage_demo) - 简约的个人主页，导航页
 
 *   [denghongcai/forsaken-mail](https://github.com/denghongcai/forsaken-mail) - a self-hosted disposable mail service
@@ -238,6 +240,8 @@
 *   [Yeo-x/ShareDL](https://github.com/Yeo-x/ShareDL) - 基于 Cloudflare Workers 的代理下载和文件分享服务，支持直接代理下载、短链接分享和 AList, Github 文件预览。
 
 *   [sun0225SUN/lusion](https://github.com/sun0225SUN/lusion) - 旧版 https://lusion.co/about
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [1143520/txt-link](https://github.com/1143520/txt-link) -
 
@@ -821,8 +825,6 @@
 
 *   [EvanTop/EvanMi](https://github.com/EvanTop/EvanMi) - 一个极简且精致的域名表/导航页
 
-*   [deerwan/homepage](https://github.com/deerwan/homepage) - 个人主页 导航页
-
 *   [lovebai/toalist](https://github.com/lovebai/toalist) - 一款使用Golang开发的可对接 Openlist（Alist） 的文件服务程序
 
 *   [EvanTop/EvanNav\_SV](https://github.com/EvanTop/EvanNav_SV) - EvanNav\_SV 是 EvanNav的超级简化版本（Super Vanilla），将完整导航系统的精华浓缩为单个 HTML 文件。这款轻量级网址收藏管理工具继承了原版的核心功能和优雅设计，同时大幅提升了便携性和易用性。
@@ -1104,8 +1106,6 @@
 *   [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 
 *   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
