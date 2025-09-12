@@ -39,9 +39,10 @@
 *   [Blade](#blade)
 *   [Mermaid](#mermaid)
 *   [Perl](#perl)
-*   [CoffeeScript](#coffeescript)
 
 ## JavaScript
+
+*   [ilikeeu/spassword](https://github.com/ilikeeu/spassword) - 密码管理器 Pro 是一个基于 Cloudflare Workers 的现代化密码管理解决方案，提供安全的密码存储、智能自动填充、云备份同步等功能。spassword
 
 *   [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
 
@@ -1512,7 +1513,3 @@
 ## Perl
 
 *   [OreosLab/checkinpanel](https://github.com/OreosLab/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
-
-## CoffeeScript
-
-*   [bolasblack/icon-finder](https://github.com/bolasblack/icon-finder) -
