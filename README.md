@@ -42,6 +42,8 @@
 
 ## JavaScript
 
+*   [IonRh/HomePage](https://github.com/IonRh/HomePage) - HomePage 使用原生HTML构建，美观、轻量化的个人主页
+
 *   [ilikeeu/spassword](https://github.com/ilikeeu/spassword) - 密码管理器 Pro 是一个基于 Cloudflare Workers 的现代化密码管理解决方案，提供安全的密码存储、智能自动填充、云备份同步等功能。spassword
 
 *   [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
@@ -140,7 +142,7 @@
 
 *   [sun0225SUN/lusion](https://github.com/sun0225SUN/lusion) - 旧版 https://lusion.co/about
 
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 *   [1143520/txt-link](https://github.com/1143520/txt-link) -
 
@@ -1201,8 +1203,6 @@
 *   [v2ray/domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-
-*   [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) - 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
 
 ## Shell
 
