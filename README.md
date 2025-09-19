@@ -11,9 +11,9 @@
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
 *   [PHP](#php)
-*   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Go](#go)
+*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Astro](#astro)
 *   [Kotlin](#kotlin)
@@ -114,7 +114,7 @@
 
 *   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
@@ -271,6 +271,8 @@
 *   [CNPAY/umami](https://github.com/CNPAY/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
 *   [FT-Fetters/tiny-blog-open](https://github.com/FT-Fetters/tiny-blog-open) - Minimalist Geek Blog "Simple, but not simplistic"
+
+*   [CNPAY/newsnow](https://github.com/CNPAY/newsnow) - Elegant reading of real-time and hottest news
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
@@ -582,7 +584,7 @@
 
 *   [li88iioo/Photonix](https://github.com/li88iioo/Photonix) - 🤖 AI驱动的智能相册 | 双布局模式 | 移动端触摸优化 | Docker一键部署  一个现代化的智能相册管理系统，支持瀑布流/网格双布局切换，集成AI画中密语、双指缩放拖拽、多数据库架构。开箱即用的Docker部署方案。访问密码:demo
 
-*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+*   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
 *   [y-shi23/MeowNocode](https://github.com/y-shi23/MeowNocode) - memos类开源高颜值便签应用
 
@@ -1052,114 +1054,6 @@
 
 *   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
 
-## miscellaneous
-
-*   [CNPAY/newsnow](https://github.com/CNPAY/newsnow) - Elegant reading of real-time and hottest news
-
-*   [gaoyb7/rclone-release](https://github.com/gaoyb7/rclone-release) - rclone 改版，兼容支持 115 网盘
-
-*   [dmitio/Idle-sales-page](https://github.com/dmitio/Idle-sales-page) - 可部署到cloudflare的闲置物品售卖单页
-
-*   [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol
-
-*   [Lanlan13-14/Rules](https://github.com/Lanlan13-14/Rules) - 适用于Mihomo/Stash客户端的Yaml配置文件
-
-*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
-
-*   [linux-surface/surface-pro-x](https://github.com/linux-surface/surface-pro-x) - Tracking and meta repository for Surface Pro X support.
-
-*   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
-
-*   [venkio/DomainTools](https://github.com/venkio/DomainTools) - 批量-快速-自定义-扫描200多个顶级域名有没有被注册，域名扫描，注册查询，批量扫描
-
-*   [a37836323/-chatgpt4.0-api-key](https://github.com/a37836323/-chatgpt4.0-api-key) - 🌥️ 云雾API | OpenAI官方中转服务 🌥️ https://yunwu.ai 🔥 官方价格0.5:1 🔥 0.5元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持
-
-*   [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
-
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
-
-*   [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
-
-*   [yumusb/nezha-new](https://github.com/yumusb/nezha-new) -
-
-*   [CNPAY/AdGuard](https://github.com/CNPAY/AdGuard) - 适用于AdGuard的去广告合并规则，每8个小时更新一次。
-
-*   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
-
-*   [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-
-*   [tenebo/HIMAC-Downloader](https://github.com/tenebo/HIMAC-Downloader) -
-
-*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
-
-*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
-
-*   [dmscode/WinSize](https://github.com/dmscode/WinSize) - AHK 的快速设定窗口尺寸的小工具
-
-*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
-
-*   [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile)
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
-
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-
-*   [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
-
-*   [hq450/fancyss\_history\_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
-
-*   [khvysofq/proxyer](https://github.com/khvysofq/proxyer) - 试用地址 http://test.proxyer.cn:6789/ 访问密码：12345678
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-*   [mymoonyue/Surge](https://github.com/mymoonyue/Surge) - Surge自用模块、脚本
-
-*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
-
-*   [xiaohucode/xiangse](https://github.com/xiaohucode/xiangse) - 香色闺阁视频源
-
-*   [fqfree/ssr](https://github.com/fqfree/ssr) - 科学上网
-
-*   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
-
-*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
-
-*   [veip007/GV\_GoogleVoice](https://github.com/veip007/GV_GoogleVoice) - GV自动保号脚本
-
-*   [laomingOfficial/RaspberryPiSakuraFRP](https://github.com/laomingOfficial/RaspberryPiSakuraFRP) -
-
-*   [kaich/FantasyPass](https://github.com/kaich/FantasyPass) - 一个功能强大、便捷的Keepass的IOS客户端。
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [fairyex/Fairyex-Tasker-Tasks](https://github.com/fairyex/Fairyex-Tasker-Tasks) - For my sspai power+ & other passages.
-
-*   [CNPAY/Shell](https://github.com/CNPAY/Shell) - shadowsocks-libev + \[ v2ray-plugin、kcptun、simple-obfs、goquiet、cloak ] 插件，一键安装~
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-*   [Dids/clover-builder](https://github.com/Dids/clover-builder) - Automated Clover builds.
-
-*   [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
-
-*   [CNPAY/MyRules](https://github.com/CNPAY/MyRules) - 自己用的一些Surge/Surfboard配置文件
-
-*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
-
-*   [iMeiji/shadowsocks\_install](https://github.com/iMeiji/shadowsocks_install) - Auto install shadowsocks server，thanks 秋水逸冰
-
 ## Java
 
 *   [tgmeng-com/tgmeng-api](https://github.com/tgmeng-com/tgmeng-api) - 糖果梦热搜-后端
@@ -1312,7 +1206,7 @@
 
 *   [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 
-*   [tnborg/panel](https://github.com/tnborg/panel) - AcePanel（原耗子面板）- 简单轻量，高效运维
+*   [acepanel/panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
 
 *   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
@@ -1337,6 +1231,112 @@
 *   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 
 *   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+## miscellaneous
+
+*   [gaoyb7/rclone-release](https://github.com/gaoyb7/rclone-release) - rclone 改版，兼容支持 115 网盘
+
+*   [dmitio/Idle-sales-page](https://github.com/dmitio/Idle-sales-page) - 可部署到cloudflare的闲置物品售卖单页
+
+*   [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol
+
+*   [Lanlan13-14/Rules](https://github.com/Lanlan13-14/Rules) - 适用于Mihomo/Stash客户端的Yaml配置文件
+
+*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+
+*   [linux-surface/surface-pro-x](https://github.com/linux-surface/surface-pro-x) - Tracking and meta repository for Surface Pro X support.
+
+*   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
+
+*   [venkio/DomainTools](https://github.com/venkio/DomainTools) - 批量-快速-自定义-扫描200多个顶级域名有没有被注册，域名扫描，注册查询，批量扫描
+
+*   [a37836323/-chatgpt4.0-api-key](https://github.com/a37836323/-chatgpt4.0-api-key) - 🌥️ 云雾API | OpenAI官方中转服务 🌥️ https://yunwu.ai 🔥 官方价格0.5:1 🔥 0.5元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持
+
+*   [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
+
+*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
+
+*   [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
+
+*   [yumusb/nezha-new](https://github.com/yumusb/nezha-new) -
+
+*   [CNPAY/AdGuard](https://github.com/CNPAY/AdGuard) - 适用于AdGuard的去广告合并规则，每8个小时更新一次。
+
+*   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
+
+*   [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
+*   [tenebo/HIMAC-Downloader](https://github.com/tenebo/HIMAC-Downloader) -
+
+*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
+
+*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
+
+*   [dmscode/WinSize](https://github.com/dmscode/WinSize) - AHK 的快速设定窗口尺寸的小工具
+
+*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+
+*   [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile)
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
+
+*   [hq450/fancyss\_history\_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
+
+*   [khvysofq/proxyer](https://github.com/khvysofq/proxyer) - 试用地址 http://test.proxyer.cn:6789/ 访问密码：12345678
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
+
+*   [mymoonyue/Surge](https://github.com/mymoonyue/Surge) - Surge自用模块、脚本
+
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
+
+*   [xiaohucode/xiangse](https://github.com/xiaohucode/xiangse) - 香色闺阁视频源
+
+*   [fqfree/ssr](https://github.com/fqfree/ssr) - 科学上网
+
+*   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
+
+*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
+
+*   [veip007/GV\_GoogleVoice](https://github.com/veip007/GV_GoogleVoice) - GV自动保号脚本
+
+*   [laomingOfficial/RaspberryPiSakuraFRP](https://github.com/laomingOfficial/RaspberryPiSakuraFRP) -
+
+*   [kaich/FantasyPass](https://github.com/kaich/FantasyPass) - 一个功能强大、便捷的Keepass的IOS客户端。
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [fairyex/Fairyex-Tasker-Tasks](https://github.com/fairyex/Fairyex-Tasker-Tasks) - For my sspai power+ & other passages.
+
+*   [CNPAY/Shell](https://github.com/CNPAY/Shell) - shadowsocks-libev + \[ v2ray-plugin、kcptun、simple-obfs、goquiet、cloak ] 插件，一键安装~
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [Dids/clover-builder](https://github.com/Dids/clover-builder) - Automated Clover builds.
+
+*   [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
+
+*   [CNPAY/MyRules](https://github.com/CNPAY/MyRules) - 自己用的一些Surge/Surfboard配置文件
+
+*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
+
+*   [iMeiji/shadowsocks\_install](https://github.com/iMeiji/shadowsocks_install) - Auto install shadowsocks server，thanks 秋水逸冰
 
 ## Shell
 
