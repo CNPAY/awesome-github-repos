@@ -42,9 +42,10 @@
 *   [CoffeeScript](#coffeescript)
 *   [Smarty](#smarty)
 *   [AutoHotkey](#autohotkey)
-*   [ASP](#asp)
 
 ## JavaScript
+
+*   [idinging/freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统搭建 domain mail tempmail
 
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 
@@ -1721,7 +1722,3 @@
 ## AutoHotkey
 
 *   [Rubioo/WizNote2OneNote](https://github.com/Rubioo/WizNote2OneNote) - 把为知笔记迁移到OneNote
-
-## ASP
-
-*   [CNPAY/koolshare.github.io](https://github.com/CNPAY/koolshare.github.io) - For koolshare.cn
