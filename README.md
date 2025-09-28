@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-*   [Python](#python)
-*   [TypeScript](#typescript)
 *   [Shell](#shell)
+*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [HTML](#html)
+*   [Python](#python)
 *   [C#](#c)
 *   [Vue](#vue)
 *   [Dockerfile](#dockerfile)
@@ -43,127 +43,139 @@
 *   [Smarty](#smarty)
 *   [AutoHotkey](#autohotkey)
 
-## Python
+## Shell
 
-*   [WizisCool/98tang-autosign](https://github.com/WizisCool/98tang-autosign) - 🎯 98tang论坛自动签到工具 - 支持本地运行和Github Actions云端自动执行的智能签到系统
+*   [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal) - Automate backup and restore between Bitwarden and/or Vaultwarden vault.
 
-*   [HG-ha/ICP\_Query](https://github.com/HG-ha/ICP_Query) - 查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API
+*   [ypq123456789/RealityGo](https://github.com/ypq123456789/RealityGo) - 这是一个为 Linux 服务器设计的 sing-box VLESS + Reality 节点一键安装与配置脚本。它能够自动化完成 sing-box 的下载安装、依赖处理、服务配置（支持 systemd 和 OpenRC），并智能检测服务器的操作系统、CPU 架构、公网 IP (IPv4/IPv6)、硬件配置（CPU核心数、内存）、运营商信息以及 IP 归属地（优先尝试获取中文名称，并内置翻译）。脚本最终会生成格式统一（如：美国-4H8G-Reality-v4-colocrossing）的节点分享链接，并保存在服务器上，方便用户快速部署和使用 Reality 节点。
 
-*   [eraycc/leaflow-auto](https://github.com/eraycc/leaflow-auto) - leaflow 多账户 自动签到 控制面板 支持 docker 部署
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
-*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
+*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+*   [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) - 社区驱动的服务器脚本快捷收藏夹
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [AFanSKyQs/ClashForLinux](https://github.com/AFanSKyQs/ClashForLinux) - Clash Linux端教程
 
-*   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+*   [qwenode/1panel-appstore](https://github.com/qwenode/1panel-appstore) - 1Panel 第三方应用商店
 
-*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+*   [yuju520/Shadowsocks-Auto](https://github.com/yuju520/Shadowsocks-Auto) -
 
-*   [Rsxio/DomainScannerDnsVersion](https://github.com/Rsxio/DomainScannerDnsVersion) -
+*   [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray
 
-*   [stx-x/domain-scanner-4-nodeseeker](https://github.com/stx-x/domain-scanner-4-nodeseeker) -
+*   [TwoOnefour/xray\_configuration](https://github.com/TwoOnefour/xray_configuration) - 分享一些我稳定用的xray配置。还有服务器一键部署xray脚本
 
-*   [tunecc/DuPan](https://github.com/tunecc/DuPan) - 百度网盘会员签到
+*   [cyeinfpro/EasyFRP](https://github.com/cyeinfpro/EasyFRP) -
 
-*   [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+*   [runfalk/synology-wireguard](https://github.com/runfalk/synology-wireguard) - WireGuard support for some Synology NAS drives
 
-*   [kokojacket/baidu-autosave](https://github.com/kokojacket/baidu-autosave) - 一个基于Flask的百度网盘自动转存系统，支持多用户管理、定时任务调度和通知推送。
+*   [xOS/Shadowsocks-Rust](https://github.com/xOS/Shadowsocks-Rust) - Shadowsocks-Rust 安装管理脚本
 
-*   [Yorkian/knock](https://github.com/Yorkian/knock) - 是谁在敲打我窗
+*   [DustinWin/dustinwin.github.io](https://github.com/DustinWin/dustinwin.github.io) - mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
 
-*   [xiaoyaohanyue/lsky-bot](https://github.com/xiaoyaohanyue/lsky-bot) - 这是一个是用于兰空图床的TG机器人。
+*   [wulabing/xray\_docker](https://github.com/wulabing/xray_docker) - Xray reality docker
 
-*   [xxxume/telegram\_video\_downloader](https://github.com/xxxume/telegram_video_downloader) -
+*   [niliovo/akile\_monitor\_docker](https://github.com/niliovo/akile_monitor_docker) - Akile Monitor in Docker
 
-*   [ymh1146/web-monitoring](https://github.com/ymh1146/web-monitoring) - 一个简单高效的网站（域名）状态监控工具。
+*   [JellycatUK/HY-shell-script](https://github.com/JellycatUK/HY-shell-script) - HY一键脚本工具
 
-*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+*   [Aniverse/A](https://github.com/Aniverse/A) - A bench script for dedicated servers.
 
-*   [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor) - telegram群消息监测与定时发送消息和邮件通知
+*   [007revad/Video\_Station\_for\_DSM\_722](https://github.com/007revad/Video_Station_for_DSM_722) - Script to install Video Station in DSM 7.2.2
 
-*   [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
+*   [darknebular/Wrapper\_VideoStation](https://github.com/darknebular/Wrapper_VideoStation) - Synology VideoStation and DLNA FFmpeg Wrapper with AAC, DTS, EAC3 and TrueHD support via pipes (now with GStreamer support). It enables full hardware transcoding from Synology´s FFmpeg for video and transcoding DTS, EAC3, TrueHD and AAC from the SynoCommunity's FFmpeg  only when necessary.
 
-*   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+*   [joshuaavalon/SynologyCloudflareDDNS](https://github.com/joshuaavalon/SynologyCloudflareDDNS) - 📜 Cloudflare DDNS script for Synology
 
-*   [WowYiJiu/telegram\_info\_export](https://github.com/WowYiJiu/telegram_info_export) - 导出Telegram信息
+*   [Neilpang/wgcf-docker](https://github.com/Neilpang/wgcf-docker) - CloudFlare warp in docker
 
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+*   [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) - docker-compose for testing any-sync
 
-*   [likeflyme/cloudbak](https://github.com/likeflyme/cloudbak) - 微信云备份，备份到服务器、Docker、NAS，Web访问。
+*   [jerry048/Tune](https://github.com/jerry048/Tune) -
 
-*   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.
+*   [213121234/vpstool](https://github.com/213121234/vpstool) -
 
-*   [sz3/cimbar](https://github.com/sz3/cimbar) - color-icon-matrix barcodes. Proof of concept implementation.
+*   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
 
-*   [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
+*   [York-Labs/OneClickDesktop](https://github.com/York-Labs/OneClickDesktop) - A one-click script that installs a remote desktop environment on a Linux server with browser/RDP/VNC access.
 
-*   [icloud-photos-downloader/icloud\_photos\_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+*   [OwlOooo/Owl-Panel](https://github.com/OwlOooo/Owl-Panel) - 猫头鹰节点订阅面板
 
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+*   [stilleshan/frpc](https://github.com/stilleshan/frpc) - 基于原版 frp 内网穿透客户端 frpc 的一键安装卸载脚本和 docker 镜像.支持群晖NAS,Linux 服务器和 docker 等多种环境安装部署.
 
-*   [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+*   [007revad/Synology\_HDD\_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 
-*   [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
-*   [qy527145/crack](https://github.com/qy527145/crack) -
+*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+*   [noyyyy/notion-reverse-proxy](https://github.com/noyyyy/notion-reverse-proxy) - Notion Reverse Proxy for better speed in China Mainland
 
-*   [GenshinMinecraft/Cloudflare-Workers-Ai-Telegram-Bot](https://github.com/GenshinMinecraft/Cloudflare-Workers-Ai-Telegram-Bot) - 一个很简单很简单的 Telegram AI Bot，基于 Python + Cloudflare Workers AI API
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
 
-*   [ThinkerWen/TicketMonitoring](https://github.com/ThinkerWen/TicketMonitoring) - 大麦、猫眼、纷玩岛，票星球，演唱会回流票监控
+*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
 
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+*   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
 
-*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 
-*   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+*   [davidjameshowell/vaultwarden\_heroku](https://github.com/davidjameshowell/vaultwarden_heroku) - Vaultwarden (Bitwarden Rust implementation) self hosted in Heroku for Free!
 
-*   [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。
+*   [seal0207/EasyRealM](https://github.com/seal0207/EasyRealM) - RealM 转发脚本
 
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+*   [eooce/ssh\_tool](https://github.com/eooce/ssh_tool) - VPS一键脚本工具箱！
 
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+*   [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 
-*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
+*   [tindy2013/now-subconverter](https://github.com/tindy2013/now-subconverter) -
 
-*   [ershiyi21/myprogram](https://github.com/ershiyi21/myprogram) -
+*   [i-abc/GB5](https://github.com/i-abc/GB5) - Geekbench 5 专测 | A script for Geekbench 5 benchmarking
 
-*   [jaaksii/sublink](https://github.com/jaaksii/sublink) - 开源节点订阅转换生成管理系统，集成前后端部署在docker
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
-*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
+*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 
-*   [CalmXin/xin-whois](https://github.com/CalmXin/xin-whois) - 支持多种后缀，功能强大全面，界面美观优雅，无广告，打造最实用的终极Whois查询工具
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
 
-*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+*   [enwaiax/x-ui](https://github.com/enwaiax/x-ui) - x-ui in docker version
 
-*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
 
-*   [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
+*   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
 
-*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+*   [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
 
-*   [Dineshkarthik/telegram\_media\_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
+*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 
-*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
+*   [sunpma/Speedtest](https://github.com/sunpma/Speedtest) - 中国三大运营商网络宽频测试
 
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+*   [lmc999/TikTokCheck](https://github.com/lmc999/TikTokCheck) - A Bash script to check your Tiktok region
 
-*   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
+*   [zhucaidan/btpanel-v7.7.0](https://github.com/zhucaidan/btpanel-v7.7.0) - Linux easy website building panel | btpanel-v7.7.0-backup
 
-*   [DUpdateSystem/UpgradeAll-rules](https://github.com/DUpdateSystem/UpgradeAll-rules) - UpgradeAll Discover Config Repository
+*   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
 
-*   [jackleeforce/price\_monitor](https://github.com/jackleeforce/price_monitor) - 对亚马逊中国上面感兴趣的商品进行价格监测，并发送企业微信通知
+*   [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
 
-*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
-*   [lzybetter/WizNote-to-OneNote](https://github.com/lzybetter/WizNote-to-OneNote) - Import data from WizNote to OneNote.
+*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
 
-*   [CzBiX/WizNote-to-OneNote](https://github.com/CzBiX/WizNote-to-OneNote) - Import data from WizNote to OneNote.
+*   [wulabing/V2Ray\_ws-tls\_bash\_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) -
 
-*   [adyzng/jd-autobuy](https://github.com/adyzng/jd-autobuy) - Python爬虫，京东自动登录，在线抢购商品
+*   [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
+
+*   [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
+
+*   [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) - ☁️📦 Nextcloud packaged as a snap
+
+*   [linkease/synology-easyexplorer](https://github.com/linkease/synology-easyexplorer) - EasyExplorer 跨设备、点对点文件传输同步工具 http://koolshare.cn/thread-129199-1-1.html
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [loyess/Shell](https://github.com/loyess/Shell) - Shadowsocks with plugins one-click installation. e.g. v2ray-plugin, kcptun, simple-obfs, goquiet, cloak, mos-tls-tunnel, rabbit-tcp, simple-tls, gost-plugin, xray-plugin, qtun, gun
+
+*   [RehabMan/Lenovo-Y50-DSDT-Patch](https://github.com/RehabMan/Lenovo-Y50-DSDT-Patch) - DSDT/SSDT patching scripts, post install scripts for Lenovo Y50\[-70] laptop.
 
 ## TypeScript
 
@@ -480,138 +492,6 @@
 *   [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-## Shell
-
-*   [ypq123456789/RealityGo](https://github.com/ypq123456789/RealityGo) - 这是一个为 Linux 服务器设计的 sing-box VLESS + Reality 节点一键安装与配置脚本。它能够自动化完成 sing-box 的下载安装、依赖处理、服务配置（支持 systemd 和 OpenRC），并智能检测服务器的操作系统、CPU 架构、公网 IP (IPv4/IPv6)、硬件配置（CPU核心数、内存）、运营商信息以及 IP 归属地（优先尝试获取中文名称，并内置翻译）。脚本最终会生成格式统一（如：美国-4H8G-Reality-v4-colocrossing）的节点分享链接，并保存在服务器上，方便用户快速部署和使用 Reality 节点。
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-
-*   [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) - 社区驱动的服务器脚本快捷收藏夹
-
-*   [AFanSKyQs/ClashForLinux](https://github.com/AFanSKyQs/ClashForLinux) - Clash Linux端教程
-
-*   [qwenode/1panel-appstore](https://github.com/qwenode/1panel-appstore) - 1Panel 第三方应用商店
-
-*   [yuju520/Shadowsocks-Auto](https://github.com/yuju520/Shadowsocks-Auto) -
-
-*   [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray
-
-*   [TwoOnefour/xray\_configuration](https://github.com/TwoOnefour/xray_configuration) - 分享一些我稳定用的xray配置。还有服务器一键部署xray脚本
-
-*   [cyeinfpro/EasyFRP](https://github.com/cyeinfpro/EasyFRP) -
-
-*   [runfalk/synology-wireguard](https://github.com/runfalk/synology-wireguard) - WireGuard support for some Synology NAS drives
-
-*   [xOS/Shadowsocks-Rust](https://github.com/xOS/Shadowsocks-Rust) - Shadowsocks-Rust 安装管理脚本
-
-*   [DustinWin/dustinwin.github.io](https://github.com/DustinWin/dustinwin.github.io) - mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
-
-*   [wulabing/xray\_docker](https://github.com/wulabing/xray_docker) - Xray reality docker
-
-*   [niliovo/akile\_monitor\_docker](https://github.com/niliovo/akile_monitor_docker) - Akile Monitor in Docker
-
-*   [JellycatUK/HY-shell-script](https://github.com/JellycatUK/HY-shell-script) - HY一键脚本工具
-
-*   [Aniverse/A](https://github.com/Aniverse/A) - A bench script for dedicated servers.
-
-*   [007revad/Video\_Station\_for\_DSM\_722](https://github.com/007revad/Video_Station_for_DSM_722) - Script to install Video Station in DSM 7.2.2
-
-*   [darknebular/Wrapper\_VideoStation](https://github.com/darknebular/Wrapper_VideoStation) - Synology VideoStation and DLNA FFmpeg Wrapper with AAC, DTS, EAC3 and TrueHD support via pipes (now with GStreamer support). It enables full hardware transcoding from Synology´s FFmpeg for video and transcoding DTS, EAC3, TrueHD and AAC from the SynoCommunity's FFmpeg  only when necessary.
-
-*   [joshuaavalon/SynologyCloudflareDDNS](https://github.com/joshuaavalon/SynologyCloudflareDDNS) - 📜 Cloudflare DDNS script for Synology
-
-*   [Neilpang/wgcf-docker](https://github.com/Neilpang/wgcf-docker) - CloudFlare warp in docker
-
-*   [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) - docker-compose for testing any-sync
-
-*   [jerry048/Tune](https://github.com/jerry048/Tune) -
-
-*   [213121234/vpstool](https://github.com/213121234/vpstool) -
-
-*   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
-
-*   [York-Labs/OneClickDesktop](https://github.com/York-Labs/OneClickDesktop) - A one-click script that installs a remote desktop environment on a Linux server with browser/RDP/VNC access.
-
-*   [OwlOooo/Owl-Panel](https://github.com/OwlOooo/Owl-Panel) - 猫头鹰节点订阅面板
-
-*   [stilleshan/frpc](https://github.com/stilleshan/frpc) - 基于原版 frp 内网穿透客户端 frpc 的一键安装卸载脚本和 docker 镜像.支持群晖NAS,Linux 服务器和 docker 等多种环境安装部署.
-
-*   [007revad/Synology\_HDD\_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
-
-*   [noyyyy/notion-reverse-proxy](https://github.com/noyyyy/notion-reverse-proxy) - Notion Reverse Proxy for better speed in China Mainland
-
-*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
-
-*   [taamarin/box\_for\_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
-
-*   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
-
-*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-
-*   [davidjameshowell/vaultwarden\_heroku](https://github.com/davidjameshowell/vaultwarden_heroku) - Vaultwarden (Bitwarden Rust implementation) self hosted in Heroku for Free!
-
-*   [seal0207/EasyRealM](https://github.com/seal0207/EasyRealM) - RealM 转发脚本
-
-*   [eooce/ssh\_tool](https://github.com/eooce/ssh_tool) - VPS一键脚本工具箱！
-
-*   [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
-
-*   [tindy2013/now-subconverter](https://github.com/tindy2013/now-subconverter) -
-
-*   [i-abc/GB5](https://github.com/i-abc/GB5) - Geekbench 5 专测 | A script for Geekbench 5 benchmarking
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
-
-*   [enwaiax/x-ui](https://github.com/enwaiax/x-ui) - x-ui in docker version
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
-
-*   [8838/btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
-
-*   [mvscode/frps-onekey](https://github.com/mvscode/frps-onekey) - Frp server one-click configuration script. The script obtains the latest Frp version by default
-
-*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-
-*   [sunpma/Speedtest](https://github.com/sunpma/Speedtest) - 中国三大运营商网络宽频测试
-
-*   [lmc999/TikTokCheck](https://github.com/lmc999/TikTokCheck) - A Bash script to check your Tiktok region
-
-*   [zhucaidan/btpanel-v7.7.0](https://github.com/zhucaidan/btpanel-v7.7.0) - Linux easy website building panel | btpanel-v7.7.0-backup
-
-*   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
-
-*   [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
-
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
-*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
-
-*   [wulabing/V2Ray\_ws-tls\_bash\_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) -
-
-*   [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
-
-*   [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
-
-*   [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) - ☁️📦 Nextcloud packaged as a snap
-
-*   [linkease/synology-easyexplorer](https://github.com/linkease/synology-easyexplorer) - EasyExplorer 跨设备、点对点文件传输同步工具 http://koolshare.cn/thread-129199-1-1.html
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [loyess/Shell](https://github.com/loyess/Shell) - Shadowsocks with plugins one-click installation. e.g. v2ray-plugin, kcptun, simple-obfs, goquiet, cloak, mos-tls-tunnel, rabbit-tcp, simple-tls, gost-plugin, xray-plugin, qtun, gun
-
-*   [RehabMan/Lenovo-Y50-DSDT-Patch](https://github.com/RehabMan/Lenovo-Y50-DSDT-Patch) - DSDT/SSDT patching scripts, post install scripts for Lenovo Y50\[-70] laptop.
 
 ## JavaScript
 
@@ -1130,6 +1010,126 @@
 *   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
 *   [CYD-10/Json2Excel](https://github.com/CYD-10/Json2Excel) - 将json转换成Excel
+
+## Python
+
+*   [HG-ha/ICP\_Query](https://github.com/HG-ha/ICP_Query) - 查询域名、APP、小程序、快应用以及企业的ICP备案信息，提供完全本地化的API
+
+*   [eraycc/leaflow-auto](https://github.com/eraycc/leaflow-auto) - leaflow 多账户 自动签到 控制面板 支持 docker 部署
+
+*   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+
+*   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+
+*   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+
+*   [Rsxio/DomainScannerDnsVersion](https://github.com/Rsxio/DomainScannerDnsVersion) -
+
+*   [stx-x/domain-scanner-4-nodeseeker](https://github.com/stx-x/domain-scanner-4-nodeseeker) -
+
+*   [tunecc/DuPan](https://github.com/tunecc/DuPan) - 百度网盘会员签到
+
+*   [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+
+*   [kokojacket/baidu-autosave](https://github.com/kokojacket/baidu-autosave) - 一个基于Flask的百度网盘自动转存系统，支持多用户管理、定时任务调度和通知推送。
+
+*   [Yorkian/knock](https://github.com/Yorkian/knock) - 是谁在敲打我窗
+
+*   [xiaoyaohanyue/lsky-bot](https://github.com/xiaoyaohanyue/lsky-bot) - 这是一个是用于兰空图床的TG机器人。
+
+*   [xxxume/telegram\_video\_downloader](https://github.com/xxxume/telegram_video_downloader) -
+
+*   [ymh1146/web-monitoring](https://github.com/ymh1146/web-monitoring) - 一个简单高效的网站（域名）状态监控工具。
+
+*   [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+
+*   [djksps1/telegram-monitor](https://github.com/djksps1/telegram-monitor) - telegram群消息监测与定时发送消息和邮件通知
+
+*   [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) - 去广告合并规则，每8个小时更新一次。
+
+*   [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+
+*   [WowYiJiu/telegram\_info\_export](https://github.com/WowYiJiu/telegram_info_export) - 导出Telegram信息
+
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+
+*   [likeflyme/cloudbak](https://github.com/likeflyme/cloudbak) - 微信云备份，备份到服务器、Docker、NAS，Web访问。
+
+*   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.
+
+*   [sz3/cimbar](https://github.com/sz3/cimbar) - color-icon-matrix barcodes. Proof of concept implementation.
+
+*   [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
+
+*   [icloud-photos-downloader/icloud\_photos\_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+
+*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+*   [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+
+*   [dromara/domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
+
+*   [qy527145/crack](https://github.com/qy527145/crack) -
+
+*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+
+*   [GenshinMinecraft/Cloudflare-Workers-Ai-Telegram-Bot](https://github.com/GenshinMinecraft/Cloudflare-Workers-Ai-Telegram-Bot) - 一个很简单很简单的 Telegram AI Bot，基于 Python + Cloudflare Workers AI API
+
+*   [ThinkerWen/TicketMonitoring](https://github.com/ThinkerWen/TicketMonitoring) - 大麦、猫眼、纷玩岛，票星球，演唱会回流票监控
+
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+
+*   [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+
+*   [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
+
+*   [ZhiXuanWang/cf-speed-dns](https://github.com/ZhiXuanWang/cf-speed-dns) - CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
+*   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
+
+*   [ershiyi21/myprogram](https://github.com/ershiyi21/myprogram) -
+
+*   [jaaksii/sublink](https://github.com/jaaksii/sublink) - 开源节点订阅转换生成管理系统，集成前后端部署在docker
+
+*   [shidahuilang/shuyuan](https://github.com/shidahuilang/shuyuan) - 阅读书源-香色闺阁+用心读书+源阅+阅读3.0书源+源阅读+爱阅书香+千阅+花火阅读+读不舍手+番茄+喜马拉雅+漫画+听书+书源+IPTV源+IPA巨魔应用=自动更新
+
+*   [CalmXin/xin-whois](https://github.com/CalmXin/xin-whois) - 支持多种后缀，功能强大全面，界面美观优雅，无广告，打造最实用的终极Whois查询工具
+
+*   [qd-today/qd](https://github.com/qd-today/qd) - QD \[v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+
+*   [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+
+*   [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
+
+*   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+
+*   [Dineshkarthik/telegram\_media\_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
+
+*   [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
+
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
+
+*   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
+
+*   [DUpdateSystem/UpgradeAll-rules](https://github.com/DUpdateSystem/UpgradeAll-rules) - UpgradeAll Discover Config Repository
+
+*   [jackleeforce/price\_monitor](https://github.com/jackleeforce/price_monitor) - 对亚马逊中国上面感兴趣的商品进行价格监测，并发送企业微信通知
+
+*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+*   [lzybetter/WizNote-to-OneNote](https://github.com/lzybetter/WizNote-to-OneNote) - Import data from WizNote to OneNote.
+
+*   [CzBiX/WizNote-to-OneNote](https://github.com/CzBiX/WizNote-to-OneNote) - Import data from WizNote to OneNote.
+
+*   [adyzng/jd-autobuy](https://github.com/adyzng/jd-autobuy) - Python爬虫，京东自动登录，在线抢购商品
 
 ## C\#
 
