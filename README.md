@@ -1009,7 +1009,7 @@
 
 *   [Aniverse/A](https://github.com/Aniverse/A) - A bench script for dedicated servers.
 
-*   [007revad/Video\_Station\_for\_DSM\_722](https://github.com/007revad/Video_Station_for_DSM_722) - Script to install Video Station in DSM 7.2.2
+*   [007revad/Video\_Station\_for\_DSM\_722](https://github.com/007revad/Video_Station_for_DSM_722) - Script to install Video Station in DSM 7.2.2 and DSM 7.3
 
 *   [darknebular/Wrapper\_VideoStation](https://github.com/darknebular/Wrapper_VideoStation) - Synology VideoStation and DLNA FFmpeg Wrapper with AAC, DTS, EAC3 and TrueHD support via pipes (now with GStreamer support). It enables full hardware transcoding from Synology´s FFmpeg for video and transcoding DTS, EAC3, TrueHD and AAC from the SynoCommunity's FFmpeg  only when necessary.
 
