@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [712123846456zcj/AlaTools\_remake](https://github.com/712123846456zcj/AlaTools_remake) - A small to medium-sized personal integration project, including AI tools, software tools, etc. The purpose is to use them more conveniently.
+
 *   [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 
 *   [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
@@ -160,11 +162,11 @@
 
 *   [jackleeforce/price\_monitor](https://github.com/jackleeforce/price_monitor) - 对亚马逊中国上面感兴趣的商品进行价格监测，并发送企业微信通知
 
-*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-
-*   [lzybetter/WizNote-to-OneNote](https://github.com/lzybetter/WizNote-to-OneNote) - Import data from WizNote to OneNote.
-
 ## JavaScript
+
+*   [fishjar/kiss-rules](https://github.com/fishjar/kiss-rules) - Ingest and generate subscription rules for \[KISS-Translator]. 收录并生成用于 \[KISS-Translator] 的订阅规则。
+
+*   [fishjar/kiss-worker](https://github.com/fishjar/kiss-worker) - A simple data sync service for KISSS-Translator.
 
 *   [SunXin121/bing\_wallpaper](https://github.com/SunXin121/bing_wallpaper) - 自建 bing 随机壁纸 API
 
@@ -1673,8 +1675,6 @@
 *   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
 *   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-*   [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 
 ## Stylus
 
