@@ -2,7 +2,10 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [PHP](#php)
 *   [Python](#python)
+*   [PowerShell](#powershell)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Java](#java)
@@ -14,8 +17,6 @@
 *   [Dockerfile](#dockerfile)
 *   [HTML](#html)
 *   [CSS](#css)
-*   [PHP](#php)
-*   [miscellaneous](#miscellaneous)
 *   [Astro](#astro)
 *   [Kotlin](#kotlin)
 *   [Roff](#roff)
@@ -42,7 +43,155 @@
 *   [CoffeeScript](#coffeescript)
 *   [Smarty](#smarty)
 
+## miscellaneous
+
+*   [CNPAY/domain-monitor](https://github.com/CNPAY/domain-monitor) - A self-hosted PHP domain expiration monitoring tool that tracks domain expiry dates, RDAP/WHOIS data, and SSL certificate validity. Supports alerts, multi-user setup, and cron automation. Built for developers, hosting providers, and IT admins who want full control without third-party services.
+
+*   [gaoyb7/rclone-release](https://github.com/gaoyb7/rclone-release) - rclone 改版，兼容支持 115 网盘
+
+*   [dmitio/Idle-sales-page](https://github.com/dmitio/Idle-sales-page) - 可部署到cloudflare的闲置物品售卖单页
+
+*   [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol
+
+*   [Lanlan13-14/Rules](https://github.com/Lanlan13-14/Rules) - 适用于Mihomo/Stash客户端的Yaml配置文件
+
+*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+
+*   [linux-surface/surface-pro-x](https://github.com/linux-surface/surface-pro-x) - Tracking and meta repository for Surface Pro X support.
+
+*   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
+
+*   [venkio/DomainTools](https://github.com/venkio/DomainTools) - 批量-快速-自定义-扫描200多个顶级域名有没有被注册，域名扫描，注册查询，批量扫描
+
+*   [a37836323/-chatgpt4.0-api-key](https://github.com/a37836323/-chatgpt4.0-api-key) - 🌥️ 云雾API | OpenAI官方中转服务 🌥️ https://yunwu.ai 🔥 官方价格0.5:1 🔥 0.5元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持
+
+*   [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
+
+*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
+
+*   [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
+
+*   [yumusb/nezha-new](https://github.com/yumusb/nezha-new) -
+
+*   [CNPAY/AdGuard](https://github.com/CNPAY/AdGuard) - 适用于AdGuard的去广告合并规则，每8个小时更新一次。
+
+*   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
+
+*   [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
+*   [tenebo/HIMAC-Downloader](https://github.com/tenebo/HIMAC-Downloader) -
+
+*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
+
+*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
+
+*   [dmscode/WinSize](https://github.com/dmscode/WinSize) - AHK 的快速设定窗口尺寸的小工具
+
+*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
+
+*   [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile)
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
+
+*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+
+*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
+
+*   [hq450/fancyss\_history\_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
+
+*   [khvysofq/proxyer](https://github.com/khvysofq/proxyer) - 试用地址 http://test.proxyer.cn:6789/ 访问密码：12345678
+
+*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
+
+*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
+
+*   [mymoonyue/Surge](https://github.com/mymoonyue/Surge) - Surge自用模块、脚本
+
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
+
+*   [xiaohucode/xiangse](https://github.com/xiaohucode/xiangse) - 香色闺阁视频源
+
+*   [fqfree/ssr](https://github.com/fqfree/ssr) - 科学上网
+
+*   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
+
+*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
+
+*   [veip007/GV\_GoogleVoice](https://github.com/veip007/GV_GoogleVoice) - GV自动保号脚本
+
+*   [laomingOfficial/RaspberryPiSakuraFRP](https://github.com/laomingOfficial/RaspberryPiSakuraFRP) -
+
+*   [kaich/FantasyPass](https://github.com/kaich/FantasyPass) - 一个功能强大、便捷的Keepass的IOS客户端。
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [fairyex/Fairyex-Tasker-Tasks](https://github.com/fairyex/Fairyex-Tasker-Tasks) - For my sspai power+ & other passages.
+
+*   [CNPAY/Shell](https://github.com/CNPAY/Shell) - shadowsocks-libev + \[ v2ray-plugin、kcptun、simple-obfs、goquiet、cloak ] 插件，一键安装~
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+## PHP
+
+*   [Hosteroid/domain-monitor](https://github.com/Hosteroid/domain-monitor) - A self-hosted PHP domain expiration monitoring tool that tracks domain expiry dates, RDAP/WHOIS data, and SSL certificate validity. Supports alerts, multi-user setup, and cron automation. Built for developers, hosting providers, and IT admins who want full control without third-party services.
+
+*   [sduoduo233/ping](https://github.com/sduoduo233/ping) -
+
+*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
+
+*   [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
+
+*   [AdmUU/Admin.IM](https://github.com/AdmUU/Admin.IM) - Admin.IM is an open source NetOps system. It uses the PHP Hyperf framework driven by Swoole, full coroutine scheduling + asynchronous I/O implementation, and the system performance is excellent.
+
+*   [reg233/whois-domain-lookup](https://github.com/reg233/whois-domain-lookup) - A simple WHOIS domain lookup website with strong TLD compatibility.
+
+*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
+
+*   [jerrybendy/get\_favicon](https://github.com/jerrybendy/get_favicon) - Get website's Favicon with PHP
+
+*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
+
+*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
+
+*   [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - Server for Passky (password manager)
+
+*   [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
+
+*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
+
+*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
+
+*   [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
+
+*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
+
+*   [GitHubPangHu/whoisQuery](https://github.com/GitHubPangHu/whoisQuery) - whois查询，可以查询任意后缀域名。
+
+*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
+
+*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
+
+*   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
+
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
 ## Python
+
+*   [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
 
 *   [712123846456zcj/AlaTools\_remake](https://github.com/712123846456zcj/AlaTools_remake) - A small to medium-sized personal integration project, including AI tools, software tools, etc. The purpose is to use them more conveniently.
 
@@ -161,6 +310,10 @@
 *   [DUpdateSystem/UpgradeAll-rules](https://github.com/DUpdateSystem/UpgradeAll-rules) - UpgradeAll Discover Config Repository
 
 *   [jackleeforce/price\_monitor](https://github.com/jackleeforce/price_monitor) - 对亚马逊中国上面感兴趣的商品进行价格监测，并发送企业微信通知
+
+## PowerShell
+
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ## JavaScript
 
@@ -980,8 +1133,6 @@
 
 *   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
-*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
-
 ## Rust
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1368,148 +1519,6 @@
 
 *   [guangzhengli/typora-ladder-theme](https://github.com/guangzhengli/typora-ladder-theme) - A typora theme based on LXGW font and Tailwindcss typography
 
-## PHP
-
-*   [sduoduo233/ping](https://github.com/sduoduo233/ping) -
-
-*   [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
-
-*   [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
-
-*   [AdmUU/Admin.IM](https://github.com/AdmUU/Admin.IM) - Admin.IM is an open source NetOps system. It uses the PHP Hyperf framework driven by Swoole, full coroutine scheduling + asynchronous I/O implementation, and the system performance is excellent.
-
-*   [reg233/whois-domain-lookup](https://github.com/reg233/whois-domain-lookup) - A simple WHOIS domain lookup website with strong TLD compatibility.
-
-*   [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-
-*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
-
-*   [jerrybendy/get\_favicon](https://github.com/jerrybendy/get_favicon) - Get website's Favicon with PHP
-
-*   [RandallAnjie/EmbyController](https://github.com/RandallAnjie/EmbyController) - 一个Emby管理网站
-
-*   [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
-
-*   [Rabbit-Company/Passky-Server](https://github.com/Rabbit-Company/Passky-Server) - Server for Passky (password manager)
-
-*   [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
-
-*   [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
-
-*   [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - High-performance panel based on V2board secondary development supporting new protocols and new features
-
-*   [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
-
-*   [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
-
-*   [GitHubPangHu/whoisQuery](https://github.com/GitHubPangHu/whoisQuery) - whois查询，可以查询任意后缀域名。
-
-*   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
-
-*   [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-
-*   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
-
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-## miscellaneous
-
-*   [gaoyb7/rclone-release](https://github.com/gaoyb7/rclone-release) - rclone 改版，兼容支持 115 网盘
-
-*   [dmitio/Idle-sales-page](https://github.com/dmitio/Idle-sales-page) - 可部署到cloudflare的闲置物品售卖单页
-
-*   [FrozenGEE/compose](https://github.com/FrozenGEE/compose) - 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol
-
-*   [Lanlan13-14/Rules](https://github.com/Lanlan13-14/Rules) - 适用于Mihomo/Stash客户端的Yaml配置文件
-
-*   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
-
-*   [linux-surface/surface-pro-x](https://github.com/linux-surface/surface-pro-x) - Tracking and meta repository for Surface Pro X support.
-
-*   [kepano/clipper-templates](https://github.com/kepano/clipper-templates) - Obsidian Web Clipper templates for various sites.
-
-*   [venkio/DomainTools](https://github.com/venkio/DomainTools) - 批量-快速-自定义-扫描200多个顶级域名有没有被注册，域名扫描，注册查询，批量扫描
-
-*   [a37836323/-chatgpt4.0-api-key](https://github.com/a37836323/-chatgpt4.0-api-key) - 🌥️ 云雾API | OpenAI官方中转服务 🌥️ https://yunwu.ai 🔥 官方价格0.5:1 🔥 0.5元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持
-
-*   [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
-
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
-
-*   [x1ah/gena-template](https://github.com/x1ah/gena-template) - 一键生成导航网站(GitHub Template of generating personal start page)
-
-*   [yumusb/nezha-new](https://github.com/yumusb/nezha-new) -
-
-*   [CNPAY/AdGuard](https://github.com/CNPAY/AdGuard) - 适用于AdGuard的去广告合并规则，每8个小时更新一次。
-
-*   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [bigtree945/Official\_VPS](https://github.com/bigtree945/Official_VPS) - 官方的VPS TG 群组和频道
-
-*   [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-
-*   [tenebo/HIMAC-Downloader](https://github.com/tenebo/HIMAC-Downloader) -
-
-*   [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) -
-
-*   [Moriafly/SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player (A local music player trusted and chosen by hundreds of thousands of users) for Android Release, Feedback.
-
-*   [dmscode/WinSize](https://github.com/dmscode/WinSize) - AHK 的快速设定窗口尺寸的小工具
-
-*   [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
-
-*   [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile)
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-
-*   [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
-
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-
-*   [joplin-vieweb/joplin-vieweb](https://github.com/joplin-vieweb/joplin-vieweb) - A web viewer for Joplin app
-
-*   [hq450/fancyss\_history\_package](https://github.com/hq450/fancyss_history_package) - 科学上网插件的离线安装包储存在这里
-
-*   [khvysofq/proxyer](https://github.com/khvysofq/proxyer) - 试用地址 http://test.proxyer.cn:6789/ 访问密码：12345678
-
-*   [NAStool/nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
-
-*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-*   [mymoonyue/Surge](https://github.com/mymoonyue/Surge) - Surge自用模块、脚本
-
-*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
-
-*   [xiaohucode/xiangse](https://github.com/xiaohucode/xiangse) - 香色闺阁视频源
-
-*   [fqfree/ssr](https://github.com/fqfree/ssr) - 科学上网
-
-*   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
-
-*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
-
-*   [veip007/GV\_GoogleVoice](https://github.com/veip007/GV_GoogleVoice) - GV自动保号脚本
-
-*   [laomingOfficial/RaspberryPiSakuraFRP](https://github.com/laomingOfficial/RaspberryPiSakuraFRP) -
-
-*   [kaich/FantasyPass](https://github.com/kaich/FantasyPass) - 一个功能强大、便捷的Keepass的IOS客户端。
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [fairyex/Fairyex-Tasker-Tasks](https://github.com/fairyex/Fairyex-Tasker-Tasks) - For my sspai power+ & other passages.
-
-*   [CNPAY/Shell](https://github.com/CNPAY/Shell) - shadowsocks-libev + \[ v2ray-plugin、kcptun、simple-obfs、goquiet、cloak ] 插件，一键安装~
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
 ## Astro
 
 *   [zywe03/astro-xwnav](https://github.com/zywe03/astro-xwnav) - 🚀基于 Astro 构建的超轻量个人导航站项目，支持纯静态部署，无需数据库 / 后端，仅编辑数据文件即可更新页面。主打新手友好 & 极速上线，适配Vercel、Cloudflare Pages 等平台
@@ -1644,8 +1653,6 @@
 
 *   [TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS) -
 
-*   [OldFrank/GoAgentX](https://github.com/OldFrank/GoAgentX) - GoAgentX 是一个 goagent 在 Mac OS X 下的图形界面控制软件，方便一般用户在 Mac OS X 上部署、配置和使用 goagent。
-
 ## SCSS
 
 *   [baozishu/yumingye](https://github.com/baozishu/yumingye) - 域名展示页面
@@ -1671,10 +1678,6 @@
 *   [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 
 *   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
-
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
 
 ## Stylus
 
