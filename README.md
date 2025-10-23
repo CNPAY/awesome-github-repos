@@ -345,7 +345,7 @@
 
 *   [FilenCloudDienste/filen-webdav](https://github.com/FilenCloudDienste/filen-webdav) - A package to start a WebDAV server for a single or multiple Filen accounts
 
-*   [Raimbaulty/chatnext](https://github.com/Raimbaulty/chatnext) - v.2.9.13 纯享版
+*   [raimbaulty/chatnext](https://github.com/raimbaulty/chatnext) - v.2.9.13 纯享版
 
 *   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 
