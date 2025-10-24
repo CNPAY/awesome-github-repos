@@ -491,7 +491,7 @@
 
 *   [jokerknight/SubscribeManager](https://github.com/jokerknight/SubscribeManager) - Refactor from sub-hub,a Lightweight & Simple node subscribe manager.
 
-*   [autobcb/read](https://github.com/autobcb/read) -
+*   [autobcb/read](https://github.com/autobcb/read) -  轻阅读一个全移动端可用的阅读应用，支持多端同步阅读进度，适配各种屏幕尺寸。 后端搭建视频教程：https://space.bilibili.com/517034064 ，麻烦一键三连下。
 
 *   [IonRh/HomePage](https://github.com/IonRh/HomePage) - HomePage 使用原生HTML构建，美观、轻量化的个人主页
 
@@ -1275,7 +1275,7 @@
 
 *   [helloxz/zdir](https://github.com/helloxz/zdir) - A multifunctional private storage program that integrates file indexing, online preview, and sharing, supporting both WebDAV and cloud download.
 
-*   [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 
 *   [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 
