@@ -47,6 +47,8 @@
 
 *   [codedogQBY/blog-main-admin](https://github.com/codedogQBY/blog-main-admin) -
 
+*   [deerwan/nav](https://github.com/deerwan/nav) - 基于 Cloudflare Pages + Functions 构建的现代化书签管理系统，支持卡片式展示、拖拽排序、权限控制和自动备份
+
 *   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
 
 *   [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
@@ -56,8 +58,6 @@
 *   [CNPAY/zy](https://github.com/CNPAY/zy) -
 
 *   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
-
-*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 糖果梦热搜-前端
 
 *   [eooce/nav-item](https://github.com/eooce/nav-item) - 导航站
 
@@ -150,8 +150,6 @@
 *   [codedogQBY/blog-main](https://github.com/codedogQBY/blog-main) -
 
 *   [codedogQBY/blog-main-server](https://github.com/codedogQBY/blog-main-server) -
-
-*   [deerwan/nav](https://github.com/deerwan/nav) - 基于 Cloudflare Pages + Functions 构建的现代化书签管理系统，支持卡片式展示、拖拽排序、权限控制和自动备份
 
 *   [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports
 
@@ -511,6 +509,8 @@
 
 *   [imsyy/DailyHotApi-Vercel](https://github.com/imsyy/DailyHotApi-Vercel) - 🔥 今日热榜 API - 一个聚合热门数据的 API 接口 - Vercel 快速部署
 
+*   [tgmeng-com/tgmeng-top-search-frontend](https://github.com/tgmeng-com/tgmeng-top-search-frontend) - 糖果梦热搜-前端
+
 *   [fishjar/kiss-proxy](https://github.com/fishjar/kiss-proxy) - 基于 cloudflare workers 的简单接口代理，可用于 KISS Translator 翻译服务。
 
 *   [lilu0826/alitv\_openlist](https://github.com/lilu0826/alitv_openlist) - 阿里云盘TV版token获取工具，支持OpenList:https://github.com/OpenListTeam/OpenList
@@ -823,6 +823,8 @@
 
 *   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
 
+*   [likeflyme/cloudbak](https://github.com/likeflyme/cloudbak) - 微信云备份，备份到服务器、Docker、NAS，Web访问。
+
 *   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
@@ -1048,8 +1050,6 @@
 *   [WowYiJiu/telegram\_info\_export](https://github.com/WowYiJiu/telegram_info_export) - 导出Telegram信息
 
 *   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-
-*   [likeflyme/cloudbak](https://github.com/likeflyme/cloudbak) - 微信云备份，备份到服务器、Docker、NAS，Web访问。
 
 *   [amchii/tg-signer](https://github.com/amchii/tg-signer) - 电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.
 
