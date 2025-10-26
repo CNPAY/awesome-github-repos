@@ -47,7 +47,7 @@
 
 *   [codedogQBY/blog-main-admin](https://github.com/codedogQBY/blog-main-admin) -
 
-*   [deerwan/nav](https://github.com/deerwan/nav) - 基于 Cloudflare Pages + Functions 构建的现代化书签管理系统，支持卡片式展示、拖拽排序、权限控制和自动备份
+*   [deerwan/nav](https://github.com/deerwan/nav) - 基于 Cloudflare Pages + Functions 构建的书签管理系统
 
 *   [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器
 
@@ -497,7 +497,7 @@
 
 *   [ShadowHunt-yi/musicPage](https://github.com/ShadowHunt-yi/musicPage) -
 
-*   [li88iioo/Photonix](https://github.com/li88iioo/Photonix) - 🤖 AI驱动的智能相册 | 双布局模式 | 移动端触摸优化 | Docker一键部署  一个现代化的智能相册管理系统，支持瀑布流/网格双布局切换，集成AI画中密语、双指缩放拖拽、多数据库架构。开箱即用的Docker部署方案。访问密码:demo
+*   [li88iioo/Photonix](https://github.com/li88iioo/Photonix) - 🤖 AI驱动的智能相册 | 双布局模式 | 移动端触摸优化 | Docker一键部署  一个现代化的智能相册管理系统，支持瀑布流/网格双布局切换，集成AI画中密语、双指缩放拖拽、多数据库架构。开箱即用的Docker部署方案。
 
 *   [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 
