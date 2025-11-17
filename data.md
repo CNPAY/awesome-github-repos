@@ -14,12 +14,12 @@
 *   [Shell](#shell)
 *   [Python](#python)
 *   [C++](#c)
-*   [Astro](#astro)
 *   [PHP](#php)
 *   [PowerShell](#powershell)
 *   [Java](#java)
 *   [C#](#c-1)
 *   [Dockerfile](#dockerfile)
+*   [Astro](#astro)
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
 *   [Dart](#dart)
@@ -685,6 +685,8 @@
 
 *   [ObjectX-9/nextjs-blog](https://github.com/ObjectX-9/nextjs-blog) -
 
+*   [EveSunMaple/SaroProck](https://github.com/EveSunMaple/SaroProck) - 我的个人博客！使用 Astro + React
+
 *   [codedogQBY/blog-main](https://github.com/codedogQBY/blog-main) -
 
 *   [codedogQBY/blog-main-server](https://github.com/codedogQBY/blog-main-server) -
@@ -1051,7 +1053,7 @@
 
 *   [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
 
 *   [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 
@@ -1433,14 +1435,6 @@
 
 *   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
-## Astro
-
-*   [EveSunMaple/SaroProck](https://github.com/EveSunMaple/SaroProck) - 我的个人博客！使用 Astro + React
-
-*   [zywe03/astro-xwnav](https://github.com/zywe03/astro-xwnav) - 🚀基于 Astro 构建的超轻量个人导航站项目，支持纯静态部署，无需数据库 / 后端，仅编辑数据文件即可更新页面。主打新手友好 & 极速上线，适配Vercel、Cloudflare Pages 等平台
-
-*   [ricocc/public-portfolio-site](https://github.com/ricocc/public-portfolio-site) - Designer Portfolio\&Blog Template
-
 ## PHP
 
 *   [CNPAY/domain-monitor](https://github.com/CNPAY/domain-monitor) - A self-hosted PHP domain expiration monitoring tool that tracks domain expiry dates, RDAP/WHOIS data, and SSL certificate validity. Supports alerts, multi-user setup, and cron automation. Built for developers, hosting providers, and IT admins who want full control without third-party services.
@@ -1564,6 +1558,12 @@
 *   [Hideipnetwork/hideipnetwork-web](https://github.com/Hideipnetwork/hideipnetwork-web) - Based on Node.js + Service Woker
 
 *   [TencentCloudBase-Marketplace/bitwarden](https://github.com/TencentCloudBase-Marketplace/bitwarden) - Bitwarden 服务端，基于云开发 CloudBase Framework 开发部署
+
+## Astro
+
+*   [zywe03/astro-xwnav](https://github.com/zywe03/astro-xwnav) - 🚀基于 Astro 构建的超轻量个人导航站项目，支持纯静态部署，无需数据库 / 后端，仅编辑数据文件即可更新页面。主打新手友好 & 极速上线，适配Vercel、Cloudflare Pages 等平台
+
+*   [ricocc/public-portfolio-site](https://github.com/ricocc/public-portfolio-site) - Designer Portfolio\&Blog Template
 
 ## Kotlin
 
