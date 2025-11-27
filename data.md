@@ -40,9 +40,10 @@
 *   [Mermaid](#mermaid)
 *   [Perl](#perl)
 *   [CoffeeScript](#coffeescript)
-*   [Smarty](#smarty)
 
 ## TypeScript
+
+*   [sdan/qwen-web](https://github.com/sdan/qwen-web) - qwen running locally in your browser
 
 *   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
 
@@ -1715,7 +1716,3 @@
 ## CoffeeScript
 
 *   [bolasblack/icon-finder](https://github.com/bolasblack/icon-finder) -
-
-## Smarty
-
-*   [zhongfly/now-subconverter](https://github.com/zhongfly/now-subconverter) - 已失效！
