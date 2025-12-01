@@ -40,6 +40,7 @@
 *   [Mermaid](#mermaid)
 *   [Perl](#perl)
 *   [CoffeeScript](#coffeescript)
+*   [Smarty](#smarty)
 
 ## TypeScript
 
@@ -724,8 +725,6 @@
 *   [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 
 *   [CNPAY/CloudPaste](https://github.com/CNPAY/CloudPaste) - 基于Cloudflare的在线文本/大文件分享平台，支持多种语法 Markdown 渲染、阅后即焚、S3聚合存储、密码保护等功能，可作为WebDav挂载，支持Docker部署。
-
-*   [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) -
 
 *   [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 
@@ -1716,3 +1715,7 @@
 ## CoffeeScript
 
 *   [bolasblack/icon-finder](https://github.com/bolasblack/icon-finder) -
+
+## Smarty
+
+*   [zhongfly/now-subconverter](https://github.com/zhongfly/now-subconverter) - 已失效！
