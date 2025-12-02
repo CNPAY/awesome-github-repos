@@ -1196,7 +1196,7 @@
 
 ## Shell
 
-*   [Eric86777/vps-tcp-tune](https://github.com/Eric86777/vps-tcp-tune) - BBR3+CAKE TCP 网络调优脚本，一键优化 VPS 网络【文档由Claude 4.5编写】
+*   [Eric86777/vps-tcp-tune](https://github.com/Eric86777/vps-tcp-tune) - BBR3+FQ TCP 网络调优脚本，一键优化 VPS 网络【文档由Claude 4.5编写】
 
 *   [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal) - Automate backup and restore between Bitwarden and/or Vaultwarden vault.
 
@@ -1522,7 +1522,7 @@
 
 ## Java
 
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 
 *   [WECENG/nice-excel](https://github.com/WECENG/nice-excel) - 简单好用的excel工具库
 
