@@ -13,7 +13,6 @@
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [CSS](#css)
-*   [Roff](#roff)
 *   [Shell](#shell)
 *   [C++](#c)
 *   [PHP](#php)
@@ -22,6 +21,7 @@
 *   [C#](#c-1)
 *   [Dockerfile](#dockerfile)
 *   [Astro](#astro)
+*   [Roff](#roff)
 *   [Svelte](#svelte)
 *   [C](#c-2)
 *   [Batchfile](#batchfile)
@@ -166,8 +166,6 @@
 *   [TreyDong/obsidian-to-notion](https://github.com/TreyDong/obsidian-to-notion) - Share obsidian markdown file to notion and generate notion share link    同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。
 
 *   [Done-0/Jank](https://github.com/Done-0/Jank) - 一个轻量级的博客系统，基于 Go 语言和 hertz 框架开发，支持多主题和多插件。
-
-*   [SaintWe/Sub-Store-Workers](https://github.com/SaintWe/Sub-Store-Workers) -
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
@@ -337,7 +335,7 @@
 
 *   [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
 
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 *   [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -
 
@@ -392,6 +390,8 @@
 *   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 *   [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+
+*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 
 ## Rust
 
@@ -927,7 +927,7 @@
 
 *   [SunXin121/bing\_wallpaper](https://github.com/SunXin121/bing_wallpaper) - 自建 bing 随机壁纸 API
 
-*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
+*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - Cloud Mail - Simple Email Service on Cloudflare  | 基于 Cloudflare 的简约响应式邮箱服务  | Cloudflare Email 邮箱 Mail
 
 *   [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin
 
@@ -1010,6 +1010,8 @@
 *   [Keywos/rule](https://github.com/Keywos/rule) -
 
 *   [CNPAY/domain-manager](https://github.com/CNPAY/domain-manager) -
+
+*   [SaintWe/Sub-Store-Workers](https://github.com/SaintWe/Sub-Store-Workers) -
 
 *   [es-v/SimpleSearch](https://github.com/es-v/SimpleSearch) - A very simple navigational search homepage with a background using Bing's image API and support for adding search engines on your own.
 
@@ -1345,12 +1347,6 @@
 
 *   [guangzhengli/typora-ladder-theme](https://github.com/guangzhengli/typora-ladder-theme) - A typora theme based on LXGW font and Tailwindcss typography
 
-## Roff
-
-*   [horselock/Jailbreaks](https://github.com/horselock/Jailbreaks) - NSFW Jailbreaks for various LLMs
-
-*   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
 ## Shell
 
 *   [Eric86777/vps-tcp-tune](https://github.com/Eric86777/vps-tcp-tune) - BBR3+FQ TCP 网络调优脚本，一键优化 VPS 网络【文档由Claude 4.5编写】
@@ -1622,6 +1618,10 @@
 *   [zywe03/astro-xwnav](https://github.com/zywe03/astro-xwnav) - 🚀基于 Astro 构建的超轻量个人导航站项目，支持纯静态部署，无需数据库 / 后端，仅编辑数据文件即可更新页面。主打新手友好 & 极速上线，适配Vercel、Cloudflare Pages 等平台
 
 *   [ricocc/public-portfolio-site](https://github.com/ricocc/public-portfolio-site) - Designer Portfolio\&Blog Template
+
+## Roff
+
+*   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Svelte
 
