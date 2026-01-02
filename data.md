@@ -1492,7 +1492,7 @@
 
 *   [8885155/8885155.github.io](https://github.com/8885155/8885155.github.io) - Config files for my GitHub profile.
 
-*   [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet) - Yet another Internet.
+*   [dahaha-365/YaNet](https://github.com/dahaha-365/YaNet) - Yet another Internet. Mihomo覆写脚本
 
 *   [ZYYO666/homepage](https://github.com/ZYYO666/homepage) - 我的个人主页，homepage,个人引导页,简约主页,个人导航
 
