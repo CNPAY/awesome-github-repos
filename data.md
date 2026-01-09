@@ -125,7 +125,7 @@
 
 *   [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage
 
-*   [CNPAY/CloudPaste](https://github.com/CNPAY/CloudPaste) - 基于Cloudflare的在线文本/大文件分享平台，支持多种语法 Markdown 渲染、阅后即焚、S3聚合存储、密码保护等功能，可作为WebDav挂载，支持Docker部署。
+*   [DigitalSumeru/CloudPaste](https://github.com/DigitalSumeru/CloudPaste) - 基于Cloudflare的在线文本/大文件分享平台，支持多种语法 Markdown 渲染、阅后即焚、S3聚合存储、密码保护等功能，可作为WebDav挂载，支持Docker部署。
 
 *   [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 
@@ -153,7 +153,7 @@
 
 *   [Keywos/rule](https://github.com/Keywos/rule) -
 
-*   [CNPAY/domain-manager](https://github.com/CNPAY/domain-manager) -
+*   [DigitalSumeru/domain-manager](https://github.com/DigitalSumeru/domain-manager) -
 
 *   [SaintWe/Sub-Store-Workers](https://github.com/SaintWe/Sub-Store-Workers) -
 
@@ -199,17 +199,15 @@
 
 *   [0-RTT/JSimages](https://github.com/0-RTT/JSimages) - 基于 Cloudflare R2 储存的图床/视频床服务
 
-*   [CNPAY/domainlist](https://github.com/CNPAY/domainlist) -
+*   [DigitalSumeru/domainlist](https://github.com/DigitalSumeru/domainlist) -
 
 *   [lyleOuO/domain](https://github.com/lyleOuO/domain) -
 
-*   [CNPAY/surge-conf](https://github.com/CNPAY/surge-conf) - 自用代理配置
+*   [DigitalSumeru/surge-conf](https://github.com/DigitalSumeru/surge-conf) - 自用代理配置
 
 *   [yyhhyyyyyy/selfproxy](https://github.com/yyhhyyyyyy/selfproxy) - 自用代理工具配置仓库，包含Mihomo(Clash)、Surge等工具的优化配置文件与使用指南。
 
 *   [zzzhhh1/WorkerVless2sub1](https://github.com/zzzhhh1/WorkerVless2sub1) - 这个是一个通过 Cloudflare Workers 搭建，自动生成优选线路 VLESS 节点订阅内容生成器
-
-*   [Starry-Sky-World/BPB-Worker-Panel-Chinese](https://github.com/Starry-Sky-World/BPB-Worker-Panel-Chinese) - BPB-Worker-Panel汉化啊啊啊！本人小学生，给点Star吧！不容易啊！开发者@Starry-Sky-World！
 
 *   [xiao-cold/efilen-webdav](https://github.com/xiao-cold/efilen-webdav) - A Docker-ready WebDAV server for Filen-WebDAV, supporting multiple accounts.
 
@@ -419,11 +417,11 @@
 
 *   [djteang/OrangeTV](https://github.com/djteang/OrangeTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 
-*   [CNPAY/umami](https://github.com/CNPAY/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+*   [DigitalSumeru/umami](https://github.com/DigitalSumeru/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 
 *   [FT-Fetters/tiny-blog-open](https://github.com/FT-Fetters/tiny-blog-open) - Minimalist Geek Blog "Simple, but not simplistic"
 
-*   [CNPAY/newsnow](https://github.com/CNPAY/newsnow) - Elegant reading of real-time and hottest news
+*   [DigitalSumeru/newsnow](https://github.com/DigitalSumeru/newsnow) - Elegant reading of real-time and hottest news
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
@@ -711,6 +709,8 @@
 
 *   [hellodk34/picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) - A PicGo uploader for 兰空图床 lsky-pro，支持 V1 和 V2。
 
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+
 ## Go
 
 *   [woniu336/whois](https://github.com/woniu336/whois) -
@@ -987,7 +987,7 @@
 
 *   [assast/cmd\_manager](https://github.com/assast/cmd_manager) -
 
-*   [CNPAY/memos-worker](https://github.com/CNPAY/memos-worker) - Memos Worker: A Cloudflare-Powered Notes and Knowledge Base. 由 Cloudflare 驱动的笔记与知识库。Site: https://demo.memos-demo.workers.dev/ username: memos password: memos
+*   [DigitalSumeru/memos-worker](https://github.com/DigitalSumeru/memos-worker) - Memos Worker: A Cloudflare-Powered Notes and Knowledge Base. 由 Cloudflare 驱动的笔记与知识库。Site: https://demo.memos-demo.workers.dev/ username: memos password: memos
 
 *   [souvenp/memos-worker](https://github.com/souvenp/memos-worker) - Memos Worker: A Cloudflare-Powered Notes and Knowledge Base. 由 Cloudflare 驱动的笔记与知识库。Site: https://demo.memos-demo.workers.dev/ username: memos password: memos
 
@@ -1071,7 +1071,7 @@
 
 *   [maodeyu180/mao\_nav](https://github.com/maodeyu180/mao_nav) - 极简导航站
 
-*   [CNPAY/zy](https://github.com/CNPAY/zy) -
+*   [DigitalSumeru/zy](https://github.com/DigitalSumeru/zy) -
 
 *   [imsyy/DailyHot](https://github.com/imsyy/DailyHot) - DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi
 
@@ -1111,7 +1111,7 @@
 
 *   [acanyo/home-for-vue](https://github.com/acanyo/home-for-vue) - 一个使用 Vue 3 + TypeScript + Vite 构建的现代化个人主页，具有博客文章展示、项目展示、联系表单等功能。
 
-*   [CNPAY/Cloudflare-R2-oss](https://github.com/CNPAY/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
+*   [DigitalSumeru/Cloudflare-R2-oss](https://github.com/DigitalSumeru/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
@@ -1259,7 +1259,7 @@
 
 *   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
 
-*   [CNPAY/tchmaterial-parser](https://github.com/CNPAY/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+*   [DigitalSumeru/tchmaterial-parser](https://github.com/DigitalSumeru/tchmaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
 *   [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
@@ -1433,7 +1433,7 @@
 
 *   [yumusb/nezha-new](https://github.com/yumusb/nezha-new) -
 
-*   [CNPAY/AdGuard](https://github.com/CNPAY/AdGuard) - 适用于AdGuard的去广告合并规则，每8个小时更新一次。
+*   [DigitalSumeru/AdGuard](https://github.com/DigitalSumeru/AdGuard) - 适用于AdGuard的去广告合并规则，每8个小时更新一次。
 
 *   [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) -
 
@@ -1527,7 +1527,7 @@
 
 ## PHP
 
-*   [CNPAY/domain-monitor](https://github.com/CNPAY/domain-monitor) - A self-hosted PHP domain expiration monitoring tool that tracks domain expiry dates, RDAP/WHOIS data, and SSL certificate validity. Supports alerts, multi-user setup, and cron automation. Built for developers, hosting providers, and IT admins who want full control without third-party services.
+*   [DigitalSumeru/domain-monitor](https://github.com/DigitalSumeru/domain-monitor) - A self-hosted PHP domain expiration monitoring tool that tracks domain expiry dates, RDAP/WHOIS data, and SSL certificate validity. Supports alerts, multi-user setup, and cron automation. Built for developers, hosting providers, and IT admins who want full control without third-party services.
 
 *   [Hosteroid/domain-monitor](https://github.com/Hosteroid/domain-monitor) - A self-hosted PHP domain expiration monitoring tool that tracks domain expiry dates, RDAP/WHOIS data, and SSL certificate validity. Supports alerts, multi-user setup, and cron automation. Built for developers, hosting providers, and IT admins who want full control without third-party services.
 
