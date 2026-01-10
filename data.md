@@ -53,7 +53,7 @@
 
 *   [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 
-*   [xddcode/free-fs](https://github.com/xddcode/free-fs) -
+*   [dromara/free-fs](https://github.com/dromara/free-fs) -
 
 *   [moistrr/TGbot-D1](https://github.com/moistrr/TGbot-D1) - 实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复,存储已从 Cloudflare KV 切换到 D1 (SQLite) 以获取更高的写入容量。
 
