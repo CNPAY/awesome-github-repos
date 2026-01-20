@@ -38,11 +38,6 @@
 *   [MDX](#mdx)
 *   [Blade](#blade)
 *   [Mermaid](#mermaid)
-*   [Perl](#perl)
-*   [CoffeeScript](#coffeescript)
-*   [Smarty](#smarty)
-*   [AutoHotkey](#autohotkey)
-*   [ASP](#asp)
 
 ## Shell
 
@@ -166,43 +161,11 @@
 
 *   [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
 
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
-*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
-
-*   [wulabing/V2Ray\_ws-tls\_bash\_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) -
-
-*   [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
-
-*   [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
-
-*   [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) - ☁️📦 Nextcloud packaged as a snap
-
-*   [linkease/synology-easyexplorer](https://github.com/linkease/synology-easyexplorer) - EasyExplorer 跨设备、点对点文件传输同步工具 http://koolshare.cn/thread-129199-1-1.html
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [loyess/Shell](https://github.com/loyess/Shell) - Shadowsocks with plugins one-click installation. e.g. v2ray-plugin, kcptun, simple-obfs, goquiet, cloak, mos-tls-tunnel, rabbit-tcp, simple-tls, gost-plugin, xray-plugin, qtun, gun
-
-*   [RehabMan/Lenovo-Y50-DSDT-Patch](https://github.com/RehabMan/Lenovo-Y50-DSDT-Patch) - DSDT/SSDT patching scripts, post install scripts for Lenovo Y50\[-70] laptop.
-
 ## Swift
 
 *   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 
 *   [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place tweak injection with insert\_dylib and ChOma.
-
-*   [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-
-*   [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
-
-*   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
-
-*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
-*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-*   [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 
 ## JavaScript
 
@@ -521,32 +484,6 @@
 *   [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 
 *   [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
-
-*   [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
-
-*   [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
-
-*   [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
-
-*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
-
-*   [pfn/keepasshttp](https://github.com/pfn/keepasshttp) - KeePass plugin to expose password entries securely (256bit AES/CBC) over HTTP
-
-*   [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
-
-*   [gongjunhao/seckill](https://github.com/gongjunhao/seckill) - Chrome浏览器 抢购、秒杀插件，秒杀助手，定时自动点击
-
-*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
-
-*   [scomper/Surge](https://github.com/scomper/Surge) - Surge 配置
-
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-
-*   [sumsethan/MyRules](https://github.com/sumsethan/MyRules) - 自己用的一些Surge/Surfboard配置文件
-
-*   [shaodahong/jd-happy](https://github.com/shaodahong/jd-happy) - \[DEPRECATED]Node 爬虫，监控京东商品到货，并实现下单服务
 
 ## TypeScript
 
@@ -904,22 +841,6 @@
 
 *   [hellodk34/picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) - A PicGo uploader for 兰空图床 lsky-pro，支持 V1 和 V2。
 
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
-
-*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
-
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-
-*   [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
-
-*   [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-
-*   [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
 ## Go
 
 *   [woniu336/whois](https://github.com/woniu336/whois) -
@@ -987,8 +908,6 @@
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 
 *   [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
-
-*   [yosebyte/passport](https://github.com/yosebyte/passport) - Powerful yet simple solution for network tunneling and port forwarding with access control all using 1-URL command.
 
 *   [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 
@@ -1064,22 +983,6 @@
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
-*   [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) - 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
-
-*   [esrrhs/fuckbaiduyun](https://github.com/esrrhs/fuckbaiduyun) - 百度网盘快速加解密工具
-
-*   [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
-
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-
-*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
-
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-
 ## HTML
 
 *   [EdNovas/dongguaTV](https://github.com/EdNovas/dongguaTV) -
@@ -1134,7 +1037,7 @@
 
 *   [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
 
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
 
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 
@@ -1143,8 +1046,6 @@
 *   [sharljimhtsin/madou\_club\_dumper](https://github.com/sharljimhtsin/madou_club_dumper) - dump TS videos from https://madou.club/ website
 
 *   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [CYD-10/Json2Excel](https://github.com/CYD-10/Json2Excel) - 将json转换成Excel
 
 ## Vue
 
@@ -1260,8 +1161,6 @@
 
 *   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux\&win服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
 
-*   [zhongfly/sub-web](https://github.com/zhongfly/sub-web) -
-
 ## Java
 
 *   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
@@ -1291,10 +1190,6 @@
 *   [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods.  Currently supports monitoring Apple stores in mainland China, Hong Kong, Macau, China Taiwan, Japan and other regions.
 
 *   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
-
-*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
-
-*   [DigitalSumeru/AVdownloader-Face](https://github.com/DigitalSumeru/AVdownloader-Face) - 一个基于java的av人脸识别自动下载器
 
 ## Rust
 
@@ -1329,10 +1224,6 @@
 *   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 
 *   [rust-net/remote-bind](https://github.com/rust-net/remote-bind) - 内网穿透，支持服务器中继和基于quic的P2P直连两种模式
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-*   [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
 
 ## Python
 
@@ -1464,20 +1355,6 @@
 
 *   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 
-*   [DUpdateSystem/UpgradeAll-rules](https://github.com/DUpdateSystem/UpgradeAll-rules) - UpgradeAll Discover Config Repository
-
-*   [jackleeforce/price\_monitor](https://github.com/jackleeforce/price_monitor) - 对亚马逊中国上面感兴趣的商品进行价格监测，并发送企业微信通知
-
-*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-
-*   [lzybetter/WizNote-to-OneNote](https://github.com/lzybetter/WizNote-to-OneNote) - Import data from WizNote to OneNote.
-
-*   [CzBiX/WizNote-to-OneNote](https://github.com/CzBiX/WizNote-to-OneNote) - Import data from WizNote to OneNote.
-
-*   [adyzng/jd-autobuy](https://github.com/adyzng/jd-autobuy) - Python爬虫，京东自动登录，在线抢购商品
-
-*   [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) -
-
 ## Kotlin
 
 *   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
@@ -1507,18 +1384,6 @@
 *   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
 *   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
-*   [MatteCarra/AccA](https://github.com/MatteCarra/AccA) - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
-
-*   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-
-*   [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
-
-*   [HMBSbige/ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android) - 【自用】咕咕咕
-
-*   [shadowsocksRb/shadowsocksRb-android](https://github.com/shadowsocksRb/shadowsocksRb-android) - A shadowsocksR client for Android
-
-*   [Tooruchan/SSD-Android](https://github.com/Tooruchan/SSD-Android) - 去除了机型与已装软件检测的ShadowSocksD Android系统客户端
 
 ## Dart
 
@@ -1626,32 +1491,6 @@
 
 *   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
 
-*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
-
-*   [veip007/GV\_GoogleVoice](https://github.com/veip007/GV_GoogleVoice) - GV自动保号脚本
-
-*   [laomingOfficial/RaspberryPiSakuraFRP](https://github.com/laomingOfficial/RaspberryPiSakuraFRP) -
-
-*   [kaich/FantasyPass](https://github.com/kaich/FantasyPass) - 一个功能强大、便捷的Keepass的IOS客户端。
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [fairyex/Fairyex-Tasker-Tasks](https://github.com/fairyex/Fairyex-Tasker-Tasks) - For my sspai power+ & other passages.
-
-*   [DigitalSumeru/Shell](https://github.com/DigitalSumeru/Shell) - shadowsocks-libev + \[ v2ray-plugin、kcptun、simple-obfs、goquiet、cloak ] 插件，一键安装~
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-*   [Dids/clover-builder](https://github.com/Dids/clover-builder) - Automated Clover builds.
-
-*   [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
-
-*   [DigitalSumeru/MyRules](https://github.com/DigitalSumeru/MyRules) - 自己用的一些Surge/Surfboard配置文件
-
-*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
-
-*   [iMeiji/shadowsocks\_install](https://github.com/iMeiji/shadowsocks_install) - Auto install shadowsocks server，thanks 秋水逸冰
-
 ## CSS
 
 *   [8885155/8885155.github.io](https://github.com/8885155/8885155.github.io) - Config files for my GitHub profile.
@@ -1689,12 +1528,6 @@
 *   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器：ML307R+ESP32C3 支持移动联通电信
 
 *   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
-*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
 ## PHP
 
@@ -1744,8 +1577,6 @@
 
 *   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
 
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
 ## PowerShell
 
 *   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
@@ -1776,16 +1607,6 @@
 
 *   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 
-*   [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
-
-*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
-
-*   [mitchcapper/KPEntryTemplates](https://github.com/mitchcapper/KPEntryTemplates) - KeePass Entry Templates for custom gui displays of your entries.
-
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
-*   [johanneszab/TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
-
 ## Dockerfile
 
 *   [HalcyonAzure/lsky-pro-docker](https://github.com/HalcyonAzure/lsky-pro-docker) - ☁️兰空图床(Lsky Pro) - Docker自动构建，支持多平台
@@ -1797,8 +1618,6 @@
 *   [einverne/dockerfile](https://github.com/einverne/dockerfile) - A collection of dockerfile I use
 
 *   [Hideipnetwork/hideipnetwork-web](https://github.com/Hideipnetwork/hideipnetwork-web) - Based on Node.js + Service Woker
-
-*   [TencentCloudBase-Marketplace/bitwarden](https://github.com/TencentCloudBase-Marketplace/bitwarden) - Bitwarden 服务端，基于云开发 CloudBase Framework 开发部署
 
 ## Astro
 
@@ -1832,15 +1651,9 @@
 
 *   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
-*   [shadowsocks/simple-obfs-android](https://github.com/shadowsocks/simple-obfs-android) - A simple obfuscating tool for Android
-
-*   [shadowsocks/simple-obfs](https://github.com/shadowsocks/simple-obfs) - A simple obfuscating tool (Deprecated)
-
 ## Batchfile
 
 *   [1143520/picture-api](https://github.com/1143520/picture-api) -
-
-*   [vokins/yhosts](https://github.com/vokins/yhosts) - AD hosts爱好群，群号:201973909；无限期暂停更新。劝君更尽一杯酒，西出阳关无故人。莫愁前路无知己，天下谁人不识君。
 
 ## Adblock Filter List
 
@@ -1853,12 +1666,6 @@
 *   [Alinto/sogo](https://github.com/Alinto/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission handling. It also makes use of documented standards (IMAP, CalDAV, CardDAV, etc.) and thereby provides native connectivity (without plugins) to many clients such as Microsoft Outlook, Apple iCal, the iPhone, Mozilla Lightning, and a plethora of mobile devices.
 
 *   [Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
-
-*   [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
-
-*   [TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS) -
-
-*   [OldFrank/GoAgentX](https://github.com/OldFrank/GoAgentX) - GoAgentX 是一个 goagent 在 Mac OS X 下的图形界面控制软件，方便一般用户在 Mac OS X 上部署、配置和使用 goagent。
 
 ## SCSS
 
@@ -1888,8 +1695,6 @@
 
 *   [koolshare/rogsoft](https://github.com/koolshare/rogsoft) - software center for hnd/axhnd/axhnd.675x routers
 
-*   [koolshare/koolshare.github.io](https://github.com/koolshare/koolshare.github.io) - 网站切换到：https://www.asusgo.com
-
 ## Crystal
 
 *   [getmango/Mango](https://github.com/getmango/Mango) - Mango is a self-hosted manga server and web reader
@@ -1905,23 +1710,3 @@
 ## Mermaid
 
 *   [v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples) - v2ray-core 的模板们
-
-## Perl
-
-*   [OreosLab/checkinpanel](https://github.com/OreosLab/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
-
-## CoffeeScript
-
-*   [bolasblack/icon-finder](https://github.com/bolasblack/icon-finder) -
-
-## Smarty
-
-*   [zhongfly/now-subconverter](https://github.com/zhongfly/now-subconverter) - 已失效！
-
-## AutoHotkey
-
-*   [Rubioo/WizNote2OneNote](https://github.com/Rubioo/WizNote2OneNote) - 把为知笔记迁移到OneNote
-
-## ASP
-
-*   [DigitalSumeru/koolshare.github.io](https://github.com/DigitalSumeru/koolshare.github.io) - For koolshare.cn
