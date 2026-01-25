@@ -79,8 +79,6 @@
 
 *   [Chil30/vless-all-in-one](https://github.com/Chil30/vless-all-in-one) - All-in-One Proxy Script: One-click deployment for 14 protocols including VLESS Reality, Hysteria2, TUIC v5, NaïveProxy, and Snell. Features multi-protocol coexistence, smart BBR optimization, traffic routing with WARP/chain proxy, and subscription management. Supports Debian, Ubuntu, CentOS, and Alpine.
 
-*   [Eric86777/vps-tcp-tune](https://github.com/Eric86777/vps-tcp-tune) - BBR3+FQ TCP 网络调优脚本，一键优化 VPS 网络【文档由Claude 4.5编写】
-
 *   [Reaper0x1/bitwarden-portal](https://github.com/Reaper0x1/bitwarden-portal) - Automate backup and restore between Bitwarden and/or Vaultwarden vault.
 
 *   [ypq123456789/RealityGo](https://github.com/ypq123456789/RealityGo) - 这是一个为 Linux 服务器设计的 sing-box VLESS + Reality 节点一键安装与配置脚本。它能够自动化完成 sing-box 的下载安装、依赖处理、服务配置（支持 systemd 和 OpenRC），并智能检测服务器的操作系统、CPU 架构、公网 IP (IPv4/IPv6)、硬件配置（CPU核心数、内存）、运营商信息以及 IP 归属地（优先尝试获取中文名称，并内置翻译）。脚本最终会生成格式统一（如：美国-4H8G-Reality-v4-colocrossing）的节点分享链接，并保存在服务器上，方便用户快速部署和使用 Reality 节点。
@@ -194,6 +192,8 @@
 *   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
 
 *   [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
+
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
 ## Swift
 
@@ -1171,7 +1171,7 @@
 
 *   [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, song downloads, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 *   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
