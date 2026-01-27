@@ -683,7 +683,7 @@
 
 *   [lyonbot/cf-drop](https://github.com/lyonbot/cf-drop) - A fast and simple tool to store and share temporary files via Cloudflare Workers.
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding\_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 *   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
 
@@ -783,7 +783,7 @@
 
 *   [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 
-*   [TBXark/mail2telegram](https://github.com/TBXark/mail2telegram) - Forward email to telegram with Cloudflare Email Routing
+*   [tbxark/mail2telegram](https://github.com/tbxark/mail2telegram) - Forward email to telegram with Cloudflare Email Routing
 
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
