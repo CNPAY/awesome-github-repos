@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-*   [Kotlin](#kotlin)
 *   [Shell](#shell)
+*   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
 *   [Swift](#swift)
 *   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [HTML](#html)
 *   [Vue](#vue)
@@ -38,40 +38,15 @@
 *   [MDX](#mdx)
 *   [Blade](#blade)
 *   [Mermaid](#mermaid)
-
-## Kotlin
-
-*   [3zpnix/WriteOn](https://github.com/3zpnix/WriteOn) - Simple Notes Jetpack Compose - Clean, intuitive note-taking open source app
-
-*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
-
-*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-
-*   [starifly/NekoBoxForAndroid](https://github.com/starifly/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
-
-*   [YuKongA/HQ-ICON\_Compose](https://github.com/YuKongA/HQ-ICON_Compose) - \[App] Get app icons from App Store / 从 App Store 获取应用图标
-
-*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-
-*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-
-*   [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
-
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+*   [Perl](#perl)
+*   [CoffeeScript](#coffeescript)
+*   [Smarty](#smarty)
+*   [AutoHotkey](#autohotkey)
+*   [ASP](#asp)
 
 ## Shell
+
+*   [tianrking/AnyTLS-Go-Script](https://github.com/tianrking/AnyTLS-Go-Script) - AnyTLS-Go 一键安装脚本
 
 *   [ISFZY/Xray-Auto](https://github.com/ISFZY/Xray-Auto) - 全自动 Xray 一键脚本，基于 VLESS + Reality-Vision/xhttp 顶尖流控协议。专为 Debian 和 Ubuntu 系统设计，提供极致的性能优化与安全防护。（An advanced, fully automated deployment script for Xray, featuring VLESS + Reality-Vision/xhttp. Designed for performance, security, and ease of use on Debian and Ubuntu systems. ）
 
@@ -195,11 +170,459 @@
 
 *   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
+*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
+
+*   [wulabing/V2Ray\_ws-tls\_bash\_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) -
+
+*   [hq450/fancyss](https://github.com/hq450/fancyss) - fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.
+
+*   [wulabing/Xray\_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
+
+*   [nextcloud-snap/nextcloud-snap](https://github.com/nextcloud-snap/nextcloud-snap) - ☁️📦 Nextcloud packaged as a snap
+
+*   [linkease/synology-easyexplorer](https://github.com/linkease/synology-easyexplorer) - EasyExplorer 跨设备、点对点文件传输同步工具 http://koolshare.cn/thread-129199-1-1.html
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [loyess/Shell](https://github.com/loyess/Shell) - Shadowsocks with plugins one-click installation. e.g. v2ray-plugin, kcptun, simple-obfs, goquiet, cloak, mos-tls-tunnel, rabbit-tcp, simple-tls, gost-plugin, xray-plugin, qtun, gun
+
+*   [RehabMan/Lenovo-Y50-DSDT-Patch](https://github.com/RehabMan/Lenovo-Y50-DSDT-Patch) - DSDT/SSDT patching scripts, post install scripts for Lenovo Y50\[-70] laptop.
+
+## TypeScript
+
+*   [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI识别的邮件聚合客户端 | AI Powered Email Aggregation  Client
+
+*   [hoochanlon/Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac) - Nigate: An open-source NTFS utility for Mac. It supports all Mac models (Intel and Apple Silicon), providing full read-write access, mounting, and management for NTFS drives.
+
+*   [moli-xia/global-radio](https://github.com/moli-xia/global-radio) - 这是一个基于 Vue 3 + Vite 的在线电台应用，包含播放、搜索、收藏、历史记录、主题切换与多语言等功能，并支持 PWA 安装。
+
+*   [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
+
+*   [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
+
+*   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+
+*   [liheji/mihomo-yacd](https://github.com/liheji/mihomo-yacd) -
+
+*   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+
+*   [hicyoucom/hicyou](https://github.com/hicyoucom/hicyou) -
+
+*   [mtvpls/MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) - MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
+
+*   [Levix0501/notra](https://github.com/Levix0501/notra) - Notra is a full-stack knowledge base built with Next.js
+
+*   [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public) - 开源blog，让你不写代码就开始写 blog，管理 blog 内容。无需服务器，无需费用。
+
+*   [sdan/qwen-web](https://github.com/sdan/qwen-web) - qwen running locally in your browser
+
+*   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
+
+*   [yigehaozi/astralis](https://github.com/yigehaozi/astralis) - https://www.astralis.cn/
+
+*   [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflare 全栈项目模板，集成 Edge Runtime、D1 数据库、R2 存储和完整的 CI/CD 流程。
+
+*   [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress) - NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 DeepSeek和微信公众号助手使用，碎片时间也能用手机发有排版的文章了。
+
+*   [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
+
+*   [zuoban/tts](https://github.com/zuoban/tts) - tts 服务
+
+*   [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
+
+*   [ObjectX-9/nextjs-blog](https://github.com/ObjectX-9/nextjs-blog) -
+
+*   [EveSunMaple/SaroProck](https://github.com/EveSunMaple/SaroProck) - 我的个人博客！使用 Astro + React
+
+*   [codedogQBY/blog-main](https://github.com/codedogQBY/blog-main) -
+
+*   [codedogQBY/blog-main-server](https://github.com/codedogQBY/blog-main-server) -
+
+*   [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
+*   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+
+*   [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+*   [haogege8888/KatelyaTV](https://github.com/haogege8888/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.6 通知：今日战绩---修复OrionTV视频源无法播放问题、添加视频源一键导入导出修复、同时支持了成人过滤、修复管理面板、TVBOX配置生成问题，fork仓库之后使用cloudflare部署配合D1用到的相关所有.sql就可以部署成功了！
+
+*   [Ouonnki/OuonnkiTV](https://github.com/Ouonnki/OuonnkiTV) - Ouonnki TV —— 一键搭建个人影视站，支持Vercel自动部署，基于LibreTV修改
+
+*   [djteang/OrangeTV](https://github.com/djteang/OrangeTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+
+*   [DigitalSumeru/umami](https://github.com/DigitalSumeru/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+
+*   [FT-Fetters/tiny-blog-open](https://github.com/FT-Fetters/tiny-blog-open) - Minimalist Geek Blog "Simple, but not simplistic"
+
+*   [DigitalSumeru/newsnow](https://github.com/DigitalSumeru/newsnow) - Elegant reading of real-time and hottest news
+
+*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+
+*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
+
+*   [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+
+*   [alterem/mark-pic](https://github.com/alterem/mark-pic) - 一个现代化的 Markdown 转图片工具，支持实时预览、自定义样式和一键导出。
+
+*   [CelestialRipple/Gamer](https://github.com/CelestialRipple/Gamer) - A simple personal website built with Next.js featuring a video game theme.
+
+*   [QingRex/LoonKissSurge](https://github.com/QingRex/LoonKissSurge) -
+
+*   [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
+
+*   [baranwang/sgmodule-argument-proxy](https://github.com/baranwang/sgmodule-argument-proxy) - Sgmodule Argument Proxy
+
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+
+*   [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
+
+*   [allinssl/allinssl](https://github.com/allinssl/allinssl) - AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.
+
+*   [ljnchn/NodeSeeker](https://github.com/ljnchn/NodeSeeker) - NodeSeek RSS 监控，telegram bot 推送，单用户版
+
+*   [NodePassProject/NodePassDash](https://github.com/NodePassProject/NodePassDash) - A modern web dashboard for managing NodePass
+
+*   [hubingkang/vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus) - 44000+ 词汇语料库
+
+*   [FilenCloudDienste/filen-s3](https://github.com/FilenCloudDienste/filen-s3) - A package to start a S3 server for a Filen account
+
+*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+
+*   [anwen-anyi/anwen-anyi.github.io](https://github.com/anwen-anyi/anwen-anyi.github.io) - 个人Docs自留地
+
+*   [SeptemberHX/joplin-plugin-enhancement](https://github.com/SeptemberHX/joplin-plugin-enhancement) - joplin plugin to enhance my daily usage
+
+*   [aooiuu/any-reader](https://github.com/aooiuu/any-reader) - 📘开源的多平台自定义源资源聚合工具。支持小说、漫画阅读、视频播放、聚合搜索、分类排行等, 也支持本地资源TXT、EPUB
+
+*   [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
+
+*   [airyland/memocat](https://github.com/airyland/memocat) - Your elegant note-taking companion
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+
+*   [TooonyChen/AuthInbox](https://github.com/TooonyChen/AuthInbox) - Auth Inbox 📬 is a self-hosted, open-source platform for receiving multiple email verification codes and real-time notifications, built using Cloudflare's free services. | Auth Inbox 📬 是一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。
+
+*   [zaunist/zmail](https://github.com/zaunist/zmail) - ZMAIL-24小时临时邮箱
+
+*   [f3liiix/nav-site](https://github.com/f3liiix/nav-site) - 一个用AI写的网址导航站，带后台管理。
+
+*   [zaunist/xugou](https://github.com/zaunist/xugou) - XUGOU-基于CloudFlare的轻量化监控平台
+
+*   [zqq-nuli/Cloudflare-Navihive](https://github.com/zqq-nuli/Cloudflare-Navihive) - NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。
+
+*   [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
+
+*   [baozishu/Domain-Display](https://github.com/baozishu/Domain-Display) - 这是由Ai生成的域名展示页面
+
+*   [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) -
+
+*   [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
+
+*   [Yuri-NagaSaki/ImageFlow](https://github.com/Yuri-NagaSaki/ImageFlow) - Modern Image Service System
+
+*   [TreyDong/obsidian-to-notion](https://github.com/TreyDong/obsidian-to-notion) - Share obsidian markdown file to notion and generate notion share link    同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。
+
+*   [Done-0/Jank](https://github.com/Done-0/Jank) - 一个轻量级的博客系统，基于 Go 语言和 hertz 框架开发，支持多主题和多插件。
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [kleinrui/sub-box](https://github.com/kleinrui/sub-box) - 一个简单的订阅管理服务
+
+*   [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - Code editing environment with an AI copilot and real-time collaboration
+
+*   [i365dev/LetterDrop](https://github.com/i365dev/LetterDrop) - LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.
+
+*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
+
+*   [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
+
+*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+
+*   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+
+*   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
+
+*   [Alice39s/cloudflare-custom-pages-nextjs](https://github.com/Alice39s/cloudflare-custom-pages-nextjs) - A beautiful, out-of-the-box Cloudflare WAF custom page template.
+
+*   [NeatChat/NeatChat](https://github.com/NeatChat/NeatChat) - 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案
+
+*   [lyonbot/cf-drop](https://github.com/lyonbot/cf-drop) - A fast and simple tool to store and share temporary files via Cloudflare Workers.
+
+*   [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+
+*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
+
+*   [RoelVB/ChromeKeePass](https://github.com/RoelVB/ChromeKeePass) - Chrome extensions for automatically filling credentials from KeePass
+
+*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+
+*   [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
+
+*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
+
+*   [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
+
+*   [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉
+
+*   [iAmCorey/devtoolset](https://github.com/iAmCorey/devtoolset) - Open-source & database-free & server-free developer tools navigator / 无需数据库无需服务器的开源开发者工具导航站
+
+*   [yllhwa/FileWorker](https://github.com/yllhwa/FileWorker) - 运行在边缘函数上的在线剪贴板/文件共享
+
+*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
+
+*   [Mereithhh/van-hub](https://github.com/Mereithhh/van-hub) - 收集你的零零散散，全新的聚合思路。自托管的网站汇总平台，内嵌页面无需跳转，很适合作为团队内部工具平台。
+
+*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+
+*   [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
+
+*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+
+*   [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
+
+*   [kobe-koto/EdgeSub](https://github.com/kobe-koto/EdgeSub) - Convert your proxies on Cloudflare Edge Network
+
+*   [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
+
+*   [oustn/cloudflare-bark-server](https://github.com/oustn/cloudflare-bark-server) - A Cloudflare worker for Bark server
+
+*   [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+
+*   [move132/Domain-Monitoring](https://github.com/move132/Domain-Monitoring) - Domain Monitoring
+
+*   [jasperchan/gmail-to-outlook-proxy](https://github.com/jasperchan/gmail-to-outlook-proxy) - Restore Gmail's "Send mail as" functionality for your Outlook.com account
+
+*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+
+*   [miantiao-me/DNS.Surf](https://github.com/miantiao-me/DNS.Surf) - Querying DNS Resolution Results in Different Regions Worldwide.
+
+*   [harrisonwang/url-shortener](https://github.com/harrisonwang/url-shortener) - URL Shortener is a free tool designed to help users easily shorten long URLs. Our goal is to make URL shortening simple, fast, and efficient. Whether you're a marketer, developer, or anyone who needs to share links, URL Shortener can help you create concise, manageable links.
+
+*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
+
+*   [LHRUN/one-space](https://github.com/LHRUN/one-space) - One Space is a personal space page dedicated to showing yourself
+
+*   [marktext/muya](https://github.com/marktext/muya) - 📄 Future markdown editor for web browser applications development
+
+*   [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
+
+*   [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service (WebUI & WebDAV) using CloudFlare R2
+
+*   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+
+*   [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) -
+
+*   [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
+
+*   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
+
+*   [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
+
+*   [FilenCloudDienste/filen-webdav](https://github.com/FilenCloudDienste/filen-webdav) - A package to start a WebDAV server for a single or multiple Filen accounts
+
+*   [raimbaulty/chatnext](https://github.com/raimbaulty/chatnext) - v.2.9.13 纯享版
+
+*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V3 & R1大模型逆向API【特长：良心厂商】（官方贼便宜，建议直接走官方），支持高速流式输出、多轮对话，联网搜索，R1深度思考，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
+
+*   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+
+*   [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) - 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
+
+*   [mamumu123/next-api-share](https://github.com/mamumu123/next-api-share) - ugly-face,api
+
+*   [yestool/analytics\_with\_cloudflare](https://github.com/yestool/analytics_with_cloudflare) - a simple web analytics use Cloudflare workers + D1 + Huno. 👉 https://webviso.yestool.org
+
+*   [mcoo/status](https://github.com/mcoo/status) - 一个简单的监控站 Serverless · 开源 · 轻量
+
+*   [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
+
+*   [tbxark/mail2telegram](https://github.com/tbxark/mail2telegram) - Forward email to telegram with Cloudflare Email Routing
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
+
+*   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+
+*   [Adpro-Team/GKD\_THS\_List](https://github.com/Adpro-Team/GKD_THS_List) - GKD第三方订阅收录名单
+
+*   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
+
+*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
+
+*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
+
+*   [Sherlockouo/music](https://github.com/Sherlockouo/music) - a music player forked from YesPlayMusic。高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron/Docker:
+
+*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
+
+*   [MiningCattiva/x-spider](https://github.com/MiningCattiva/x-spider) - A spider for X (Twitter)
+
+*   [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 Cloudflare email
+
+*   [jarvis2f/vortex](https://github.com/jarvis2f/vortex) -
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [NekoTarou/lskypro-auto-upload](https://github.com/NekoTarou/lskypro-auto-upload) - 支持直接上传图片到图床Lsky，基于https://github.com/renmu123/obsidian-image-auto-upload-plugin.git改造。
+
+*   [jinzhi0123/picgo-plugin-alist](https://github.com/jinzhi0123/picgo-plugin-alist) - a picgo uploader for alist 在picgo把alist作为图床
+
+*   [puzzithinker/zlib-searcher](https://github.com/puzzithinker/zlib-searcher) -
+
+*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+
+*   [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+
+*   [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -
+
+*   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
+
+*   [gavvvr/obsidian-imgur-plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com
+
+*   [renmu123/obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) - auto upload image with picgo
+
+*   [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
+
+*   [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
+
+*   [JasonGrass/rename](https://github.com/JasonGrass/rename) - 在线文件批量重命名
+
+*   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+
+*   [nini22P/omp](https://github.com/nini22P/omp) - OneDrive Media Player on the web | 网页端 OneDrive 媒体播放器
+
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+
+*   [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+
+*   [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
+
+*   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
+
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+*   [miniboxs/chatgpt-ts-cfworkers](https://github.com/miniboxs/chatgpt-ts-cfworkers) -
+
+*   [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+
+*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+
+*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+*   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
+
+*   [Senkita/zLib-Web](https://github.com/Senkita/zLib-Web) - 自写一个 Book-Searcher 的 Web UI。
+
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
+
+*   [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) -
+
+*   [rita-iot/chatgpt](https://github.com/rita-iot/chatgpt) -
+
+*   [hellodk34/picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) - A PicGo uploader for 兰空图床 lsky-pro，支持 V1 和 V2。
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+
+*   [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
+
+*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
+
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+*   [bitwarden/web](https://github.com/bitwarden/web) - The website vault (vault.bitwarden.com).
+
+*   [bitwarden/desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
+
+*   [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+## Kotlin
+
+*   [3zpnix/WriteOn](https://github.com/3zpnix/WriteOn) - Simple Notes Jetpack Compose - Clean, intuitive note-taking open source app
+
+*   [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - Alternative client for the Bitwarden® platform & KeePass (KDBX), created to provide the best user experience possible.
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
+*   [starifly/NekoBoxForAndroid](https://github.com/starifly/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora is a terminal emulator and SSH client for Windows, macOS and Linux.
+
+*   [YuKongA/HQ-ICON\_Compose](https://github.com/YuKongA/HQ-ICON_Compose) - \[App] Get app icons from App Store / 从 App Store 获取应用图标
+
+*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
+
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+
+*   [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+
+*   [MatteCarra/AccA](https://github.com/MatteCarra/AccA) - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
+
+*   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+
+*   [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
+
+*   [HMBSbige/ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android) - 【自用】咕咕咕
+
+*   [shadowsocksRb/shadowsocksRb-android](https://github.com/shadowsocksRb/shadowsocksRb-android) - A shadowsocksR client for Android
+
+*   [Tooruchan/SSD-Android](https://github.com/Tooruchan/SSD-Android) - 去除了机型与已装软件检测的ShadowSocksD Android系统客户端
+
 ## Swift
 
 *   [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 
 *   [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place tweak injection with insert\_dylib and ChOma.
+
+*   [Clipy/Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
+
+*   [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
+
+*   [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
+
+*   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
+*   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
+
+*   [zhuhaow/SpechtLite](https://github.com/zhuhaow/SpechtLite) - A rule-based proxy for macOS
 
 ## JavaScript
 
@@ -519,361 +942,31 @@
 
 *   [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
 
-## TypeScript
+*   [yichahucha/surge](https://github.com/yichahucha/surge) - Some useful scripts.
 
-*   [hoochanlon/Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac) - Nigate: An open-source NTFS utility for Mac. It supports all Mac models (Intel and Apple Silicon), providing full read-write access, mounting, and management for NTFS drives.
+*   [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
 
-*   [moli-xia/global-radio](https://github.com/moli-xia/global-radio) - 这是一个基于 Vue 3 + Vite 的在线电台应用，包含播放、搜索、收藏、历史记录、主题切换与多语言等功能，并支持 PWA 安装。
+*   [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
 
-*   [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
+*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 
-*   [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 
-*   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+*   [pfn/keepasshttp](https://github.com/pfn/keepasshttp) - KeePass plugin to expose password entries securely (256bit AES/CBC) over HTTP
 
-*   [liheji/mihomo-yacd](https://github.com/liheji/mihomo-yacd) -
+*   [leanote/leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 
-*   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+*   [gongjunhao/seckill](https://github.com/gongjunhao/seckill) - Chrome浏览器 抢购、秒杀插件，秒杀助手，定时自动点击
 
-*   [hicyoucom/hicyou](https://github.com/hicyoucom/hicyou) -
+*   [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 
-*   [mtvpls/MoonTVPlus](https://github.com/mtvpls/MoonTVPlus) - MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。
+*   [scomper/Surge](https://github.com/scomper/Surge) - Surge 配置
 
-*   [Levix0501/notra](https://github.com/Levix0501/notra) - Notra is a full-stack knowledge base built with Next.js
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
-*   [YYsuni/2025-blog-public](https://github.com/YYsuni/2025-blog-public) - 开源blog，让你不写代码就开始写 blog，管理 blog 内容。无需服务器，无需费用。
+*   [sumsethan/MyRules](https://github.com/sumsethan/MyRules) - 自己用的一些Surge/Surfboard配置文件
 
-*   [sdan/qwen-web](https://github.com/sdan/qwen-web) - qwen running locally in your browser
-
-*   [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
-
-*   [yigehaozi/astralis](https://github.com/yigehaozi/astralis) - https://www.astralis.cn/
-
-*   [TangSY/edge-next-starter](https://github.com/TangSY/edge-next-starter) - An out‑of‑the‑box Next.js + Cloudflare full‑stack starter integrating Edge Runtime, D1 database, R2 storage, KV cache, Analytics Engine hooks, and a complete CI/CD pipeline.一个开箱即用的 Next.js + Cloudflare 全栈项目模板，集成 Edge Runtime、D1 数据库、R2 存储和完整的 CI/CD 流程。
-
-*   [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress) - NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 DeepSeek和微信公众号助手使用，碎片时间也能用手机发有排版的文章了。
-
-*   [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
-
-*   [zuoban/tts](https://github.com/zuoban/tts) - tts 服务
-
-*   [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
-
-*   [ObjectX-9/nextjs-blog](https://github.com/ObjectX-9/nextjs-blog) -
-
-*   [EveSunMaple/SaroProck](https://github.com/EveSunMaple/SaroProck) - 我的个人博客！使用 Astro + React
-
-*   [codedogQBY/blog-main](https://github.com/codedogQBY/blog-main) -
-
-*   [codedogQBY/blog-main-server](https://github.com/codedogQBY/blog-main-server) -
-
-*   [crocofied/PortNote](https://github.com/crocofied/PortNote) - Keep track of used ports
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-
-*   [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-
-*   [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-
-*   [haogege8888/KatelyaTV](https://github.com/haogege8888/KatelyaTV) - 一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.6 通知：今日战绩---修复OrionTV视频源无法播放问题、添加视频源一键导入导出修复、同时支持了成人过滤、修复管理面板、TVBOX配置生成问题，fork仓库之后使用cloudflare部署配合D1用到的相关所有.sql就可以部署成功了！
-
-*   [Ouonnki/OuonnkiTV](https://github.com/Ouonnki/OuonnkiTV) - Ouonnki TV —— 一键搭建个人影视站，支持Vercel自动部署，基于LibreTV修改
-
-*   [djteang/OrangeTV](https://github.com/djteang/OrangeTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
-
-*   [DigitalSumeru/umami](https://github.com/DigitalSumeru/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
-
-*   [FT-Fetters/tiny-blog-open](https://github.com/FT-Fetters/tiny-blog-open) - Minimalist Geek Blog "Simple, but not simplistic"
-
-*   [DigitalSumeru/newsnow](https://github.com/DigitalSumeru/newsnow) - Elegant reading of real-time and hottest news
-
-*   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
-
-*   [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
-
-*   [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
-
-*   [alterem/mark-pic](https://github.com/alterem/mark-pic) - 一个现代化的 Markdown 转图片工具，支持实时预览、自定义样式和一键导出。
-
-*   [CelestialRipple/Gamer](https://github.com/CelestialRipple/Gamer) - A simple personal website built with Next.js featuring a video game theme.
-
-*   [QingRex/LoonKissSurge](https://github.com/QingRex/LoonKissSurge) -
-
-*   [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
-
-*   [baranwang/sgmodule-argument-proxy](https://github.com/baranwang/sgmodule-argument-proxy) - Sgmodule Argument Proxy
-
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
-
-*   [glitternetwork/pinme](https://github.com/glitternetwork/pinme) - Deploy Your Frontend in a Single Command. Claude Code Skills supported.
-
-*   [allinssl/allinssl](https://github.com/allinssl/allinssl) - AllinSSL 是一个集证书申请、管理、部署和监控于一体的SSL证书全生命周期管理工具。AllinSSL is an all-in-one SSL certificate lifecycle management tool that integrates certificate application, management, deployment, and monitoring.
-
-*   [ljnchn/NodeSeeker](https://github.com/ljnchn/NodeSeeker) - NodeSeek RSS 监控，telegram bot 推送，单用户版
-
-*   [NodePassProject/NodePassDash](https://github.com/NodePassProject/NodePassDash) - A modern web dashboard for managing NodePass
-
-*   [hubingkang/vocabulary-corpus](https://github.com/hubingkang/vocabulary-corpus) - 44000+ 词汇语料库
-
-*   [FilenCloudDienste/filen-s3](https://github.com/FilenCloudDienste/filen-s3) - A package to start a S3 server for a Filen account
-
-*   [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
-
-*   [anwen-anyi/anwen-anyi.github.io](https://github.com/anwen-anyi/anwen-anyi.github.io) - 个人Docs自留地
-
-*   [SeptemberHX/joplin-plugin-enhancement](https://github.com/SeptemberHX/joplin-plugin-enhancement) - joplin plugin to enhance my daily usage
-
-*   [aooiuu/any-reader](https://github.com/aooiuu/any-reader) - 📘开源的多平台自定义源资源聚合工具。支持小说、漫画阅读、视频播放、聚合搜索、分类排行等, 也支持本地资源TXT、EPUB
-
-*   [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-
-*   [airyland/memocat](https://github.com/airyland/memocat) - Your elegant note-taking companion
-
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
-
-*   [TooonyChen/AuthInbox](https://github.com/TooonyChen/AuthInbox) - Auth Inbox 📬 is a self-hosted, open-source platform for receiving multiple email verification codes and real-time notifications, built using Cloudflare's free services. | Auth Inbox 📬 是一个自建的开源多邮箱验证码的接码平台，基于 Cloudflare 的免费服务。
-
-*   [zaunist/zmail](https://github.com/zaunist/zmail) - ZMAIL-24小时临时邮箱
-
-*   [f3liiix/nav-site](https://github.com/f3liiix/nav-site) - 一个用AI写的网址导航站，带后台管理。
-
-*   [zaunist/xugou](https://github.com/zaunist/xugou) - XUGOU-基于CloudFlare的轻量化监控平台
-
-*   [zqq-nuli/Cloudflare-Navihive](https://github.com/zqq-nuli/Cloudflare-Navihive) - NaviHive 是一个精美的个人网站导航管理系统，帮助你整理和管理你收藏的网站链接。支持分组管理、拖拽排序、暗色模式等功能，让你的网站收藏更有条理、更易访问。
-
-*   [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
-
-*   [baozishu/Domain-Display](https://github.com/baozishu/Domain-Display) - 这是由Ai生成的域名展示页面
-
-*   [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) -
-
-*   [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
-
-*   [Yuri-NagaSaki/ImageFlow](https://github.com/Yuri-NagaSaki/ImageFlow) - Modern Image Service System
-
-*   [TreyDong/obsidian-to-notion](https://github.com/TreyDong/obsidian-to-notion) - Share obsidian markdown file to notion and generate notion share link    同步obsdian文件到notion，并生成notion分享链接，可以方便的分享obsidian的文件。
-
-*   [Done-0/Jank](https://github.com/Done-0/Jank) - 一个轻量级的博客系统，基于 Go 语言和 hertz 框架开发，支持多主题和多插件。
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [kleinrui/sub-box](https://github.com/kleinrui/sub-box) - 一个简单的订阅管理服务
-
-*   [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - Code editing environment with an AI copilot and real-time collaboration
-
-*   [i365dev/LetterDrop](https://github.com/i365dev/LetterDrop) - LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.
-
-*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
-
-*   [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
-
-*   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
-
-*   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-
-*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-
-*   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
-
-*   [Alice39s/cloudflare-custom-pages-nextjs](https://github.com/Alice39s/cloudflare-custom-pages-nextjs) - A beautiful, out-of-the-box Cloudflare WAF custom page template.
-
-*   [NeatChat/NeatChat](https://github.com/NeatChat/NeatChat) - 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案
-
-*   [lyonbot/cf-drop](https://github.com/lyonbot/cf-drop) - A fast and simple tool to store and share temporary files via Cloudflare Workers.
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding\_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
-
-*   [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本
-
-*   [RoelVB/ChromeKeePass](https://github.com/RoelVB/ChromeKeePass) - Chrome extensions for automatically filling credentials from KeePass
-
-*   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-
-*   [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
-
-*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
-
-*   [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
-
-*   [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉
-
-*   [iAmCorey/devtoolset](https://github.com/iAmCorey/devtoolset) - Open-source & database-free & server-free developer tools navigator / 无需数据库无需服务器的开源开发者工具导航站
-
-*   [yllhwa/FileWorker](https://github.com/yllhwa/FileWorker) - 运行在边缘函数上的在线剪贴板/文件共享
-
-*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
-
-*   [Mereithhh/van-hub](https://github.com/Mereithhh/van-hub) - 收集你的零零散散，全新的聚合思路。自托管的网站汇总平台，内嵌页面无需跳转，很适合作为团队内部工具平台。
-
-*   [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-
-*   [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
-
-*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-
-*   [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
-
-*   [kobe-koto/EdgeSub](https://github.com/kobe-koto/EdgeSub) - Convert your proxies on Cloudflare Edge Network
-
-*   [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service based on Cloudflare. 跑在 Cloudflare 上的免费网页归档和分享工具。
-
-*   [oustn/cloudflare-bark-server](https://github.com/oustn/cloudflare-bark-server) - A Cloudflare worker for Bark server
-
-*   [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-
-*   [move132/Domain-Monitoring](https://github.com/move132/Domain-Monitoring) - Domain Monitoring
-
-*   [jasperchan/gmail-to-outlook-proxy](https://github.com/jasperchan/gmail-to-outlook-proxy) - Restore Gmail's "Send mail as" functionality for your Outlook.com account
-
-*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-
-*   [miantiao-me/DNS.Surf](https://github.com/miantiao-me/DNS.Surf) - Querying DNS Resolution Results in Different Regions Worldwide.
-
-*   [harrisonwang/url-shortener](https://github.com/harrisonwang/url-shortener) - URL Shortener is a free tool designed to help users easily shorten long URLs. Our goal is to make URL shortening simple, fast, and efficient. Whether you're a marketer, developer, or anyone who needs to share links, URL Shortener can help you create concise, manageable links.
-
-*   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
-
-*   [LHRUN/one-space](https://github.com/LHRUN/one-space) - One Space is a personal space page dedicated to showing yourself
-
-*   [marktext/muya](https://github.com/marktext/muya) - 📄 Future markdown editor for web browser applications development
-
-*   [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
-
-*   [longern/FlareDrive](https://github.com/longern/FlareDrive) - Free file hosting service (WebUI & WebDAV) using CloudFlare R2
-
-*   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
-
-*   [seadfeng/favicon-downloader](https://github.com/seadfeng/favicon-downloader) -
-
-*   [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
-
-*   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-
-*   [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
-
-*   [zmh-program/next-whois](https://github.com/zmh-program/next-whois) - 🧪 Your Next-Gen Whois Lookup Tool With Modern UI. Support Domain/IPv4/IPv6/ASN/CIDR Whois Lookup And Powerful Features. Support RDAP protocol.
-
-*   [FilenCloudDienste/filen-webdav](https://github.com/FilenCloudDienste/filen-webdav) - A package to start a WebDAV server for a single or multiple Filen accounts
-
-*   [raimbaulty/chatnext](https://github.com/raimbaulty/chatnext) - v.2.9.13 纯享版
-
-*   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [LLM-Red-Team/deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api) - 🚀 DeepSeek-V3 & R1大模型逆向API【特长：良心厂商】（官方贼便宜，建议直接走官方），支持高速流式输出、多轮对话，联网搜索，R1深度思考，零配置部署，多路token支持，仅供测试，如需商用请前往官方开放平台。
-
-*   [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-
-*   [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) - 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
-
-*   [mamumu123/next-api-share](https://github.com/mamumu123/next-api-share) - ugly-face,api
-
-*   [yestool/analytics\_with\_cloudflare](https://github.com/yestool/analytics_with_cloudflare) - a simple web analytics use Cloudflare workers + D1 + Huno. 👉 https://webviso.yestool.org
-
-*   [mcoo/status](https://github.com/mcoo/status) - 一个简单的监控站 Serverless · 开源 · 轻量
-
-*   [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
-
-*   [tbxark/mail2telegram](https://github.com/tbxark/mail2telegram) - Forward email to telegram with Cloudflare Email Routing
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
-
-*   [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-
-*   [Adpro-Team/GKD\_THS\_List](https://github.com/Adpro-Team/GKD_THS_List) - GKD第三方订阅收录名单
-
-*   [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
-
-*   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
-
-*   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
-
-*   [Sherlockouo/music](https://github.com/Sherlockouo/music) - a music player forked from YesPlayMusic。高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron/Docker:
-
-*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
-
-*   [MiningCattiva/x-spider](https://github.com/MiningCattiva/x-spider) - A spider for X (Twitter)
-
-*   [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 Cloudflare email
-
-*   [jarvis2f/vortex](https://github.com/jarvis2f/vortex) -
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [NekoTarou/lskypro-auto-upload](https://github.com/NekoTarou/lskypro-auto-upload) - 支持直接上传图片到图床Lsky，基于https://github.com/renmu123/obsidian-image-auto-upload-plugin.git改造。
-
-*   [jinzhi0123/picgo-plugin-alist](https://github.com/jinzhi0123/picgo-plugin-alist) - a picgo uploader for alist 在picgo把alist作为图床
-
-*   [puzzithinker/zlib-searcher](https://github.com/puzzithinker/zlib-searcher) -
-
-*   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-
-*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-
-*   [PicGo/PicGo-Core](https://github.com/PicGo/PicGo-Core) - :zap:A tool for pictures uploading. Both CLI & API supports.
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
-
-*   [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) -
-
-*   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
-
-*   [gavvvr/obsidian-imgur-plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com
-
-*   [renmu123/obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) - auto upload image with picgo
-
-*   [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
-
-*   [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - Obsidian Plugin for combining P.A.R.A with Periodic Notes(LifeOS for Obsidian)
-
-*   [JasonGrass/rename](https://github.com/JasonGrass/rename) - 在线文件批量重命名
-
-*   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-
-*   [nini22P/omp](https://github.com/nini22P/omp) - OneDrive Media Player on the web | 网页端 OneDrive 媒体播放器
-
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-
-*   [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
-
-*   [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
-
-*   [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) -
-
-*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-
-*   [miniboxs/chatgpt-ts-cfworkers](https://github.com/miniboxs/chatgpt-ts-cfworkers) -
-
-*   [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-
-*   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
-
-*   [Senkita/zLib-Web](https://github.com/Senkita/zLib-Web) - 自写一个 Book-Searcher 的 Web UI。
-
-*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
-
-*   [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) -
-
-*   [rita-iot/chatgpt](https://github.com/rita-iot/chatgpt) -
-
-*   [hellodk34/picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) - A PicGo uploader for 兰空图床 lsky-pro，支持 V1 和 V2。
+*   [shaodahong/jd-happy](https://github.com/shaodahong/jd-happy) - \[DEPRECATED]Node 爬虫，监控京东商品到货，并实现下单服务
 
 ## Go
 
@@ -1017,6 +1110,22 @@
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
+*   [sjlleo/netflix-verify](https://github.com/sjlleo/netflix-verify) - 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
+
+*   [esrrhs/fuckbaiduyun](https://github.com/esrrhs/fuckbaiduyun) - 百度网盘快速加解密工具
+
+*   [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+
+*   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
 ## HTML
 
 *   [EdNovas/dongguaTV](https://github.com/EdNovas/dongguaTV) -
@@ -1080,6 +1189,8 @@
 *   [sharljimhtsin/madou\_club\_dumper](https://github.com/sharljimhtsin/madou_club_dumper) - dump TS videos from https://madou.club/ website
 
 *   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [CYD-10/Json2Excel](https://github.com/CYD-10/Json2Excel) - 将json转换成Excel
 
 ## Vue
 
@@ -1191,6 +1302,8 @@
 
 *   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux\&win服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
 
+*   [zhongfly/sub-web](https://github.com/zhongfly/sub-web) -
+
 ## Java
 
 *   [dromara/neutrino-proxy](https://github.com/dromara/neutrino-proxy) - 中微子代理（内网穿透）
@@ -1218,6 +1331,10 @@
 *   [MoshiCoCo/Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - Apple store inventory monitoring tool implemented in Java, supporting Bark, Feishu, Lark robot and other message push methods.  Currently supports monitoring Apple stores in mainland China, Hong Kong, Macau, China Taiwan, Japan and other regions.
 
 *   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+
+*   [uncle-novel/uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
+
+*   [DigitalSumeru/AVdownloader-Face](https://github.com/DigitalSumeru/AVdownloader-Face) - 一个基于java的av人脸识别自动下载器
 
 ## Rust
 
@@ -1252,6 +1369,10 @@
 *   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 
 *   [rust-net/remote-bind](https://github.com/rust-net/remote-bind) - 内网穿透，支持服务器中继和基于quic的P2P直连两种模式
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+*   [spieglt/Cloaker](https://github.com/spieglt/Cloaker) - Simple, drag-and-drop, password-based file encryption
 
 ## Python
 
@@ -1385,6 +1506,20 @@
 
 *   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 
+*   [DUpdateSystem/UpgradeAll-rules](https://github.com/DUpdateSystem/UpgradeAll-rules) - UpgradeAll Discover Config Repository
+
+*   [jackleeforce/price\_monitor](https://github.com/jackleeforce/price_monitor) - 对亚马逊中国上面感兴趣的商品进行价格监测，并发送企业微信通知
+
+*   [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+
+*   [lzybetter/WizNote-to-OneNote](https://github.com/lzybetter/WizNote-to-OneNote) - Import data from WizNote to OneNote.
+
+*   [CzBiX/WizNote-to-OneNote](https://github.com/CzBiX/WizNote-to-OneNote) - Import data from WizNote to OneNote.
+
+*   [adyzng/jd-autobuy](https://github.com/adyzng/jd-autobuy) - Python爬虫，京东自动登录，在线抢购商品
+
+*   [shadowsocks/shadowsocks](https://github.com/shadowsocks/shadowsocks) -
+
 ## Dart
 
 *   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
@@ -1491,6 +1626,32 @@
 
 *   [momodaqqq/qscxx](https://github.com/momodaqqq/qscxx) -
 
+*   [Tartarus2014/Surge-Script](https://github.com/Tartarus2014/Surge-Script) - Surge脚本收集
+
+*   [veip007/GV\_GoogleVoice](https://github.com/veip007/GV_GoogleVoice) - GV自动保号脚本
+
+*   [laomingOfficial/RaspberryPiSakuraFRP](https://github.com/laomingOfficial/RaspberryPiSakuraFRP) -
+
+*   [kaich/FantasyPass](https://github.com/kaich/FantasyPass) - 一个功能强大、便捷的Keepass的IOS客户端。
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [fairyex/Fairyex-Tasker-Tasks](https://github.com/fairyex/Fairyex-Tasker-Tasks) - For my sspai power+ & other passages.
+
+*   [DigitalSumeru/Shell](https://github.com/DigitalSumeru/Shell) - shadowsocks-libev + \[ v2ray-plugin、kcptun、simple-obfs、goquiet、cloak ] 插件，一键安装~
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [Dids/clover-builder](https://github.com/Dids/clover-builder) - Automated Clover builds.
+
+*   [Micropoor/Micro8](https://github.com/Micropoor/Micro8) - Gitbook
+
+*   [DigitalSumeru/MyRules](https://github.com/DigitalSumeru/MyRules) - 自己用的一些Surge/Surfboard配置文件
+
+*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
+
+*   [iMeiji/shadowsocks\_install](https://github.com/iMeiji/shadowsocks_install) - Auto install shadowsocks server，thanks 秋水逸冰
+
 ## CSS
 
 *   [8885155/8885155.github.io](https://github.com/8885155/8885155.github.io) - Config files for my GitHub profile.
@@ -1528,6 +1689,12 @@
 *   [chenxuuu/sms\_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 
 *   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
+*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
 ## PHP
 
@@ -1577,6 +1744,8 @@
 
 *   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
 
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
 ## PowerShell
 
 *   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
@@ -1607,6 +1776,16 @@
 
 *   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
 
+*   [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
+
+*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+
+*   [mitchcapper/KPEntryTemplates](https://github.com/mitchcapper/KPEntryTemplates) - KeePass Entry Templates for custom gui displays of your entries.
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+*   [johanneszab/TumblThree](https://github.com/johanneszab/TumblThree) - A Tumblr Blog Backup Application
+
 ## Dockerfile
 
 *   [HalcyonAzure/lsky-pro-docker](https://github.com/HalcyonAzure/lsky-pro-docker) - ☁️兰空图床(Lsky Pro) - Docker自动构建，支持多平台
@@ -1618,6 +1797,8 @@
 *   [einverne/dockerfile](https://github.com/einverne/dockerfile) - A collection of dockerfile I use
 
 *   [Hideipnetwork/hideipnetwork-web](https://github.com/Hideipnetwork/hideipnetwork-web) - Based on Node.js + Service Woker
+
+*   [TencentCloudBase-Marketplace/bitwarden](https://github.com/TencentCloudBase-Marketplace/bitwarden) - Bitwarden 服务端，基于云开发 CloudBase Framework 开发部署
 
 ## Astro
 
@@ -1651,9 +1832,15 @@
 
 *   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
+*   [shadowsocks/simple-obfs-android](https://github.com/shadowsocks/simple-obfs-android) - A simple obfuscating tool for Android
+
+*   [shadowsocks/simple-obfs](https://github.com/shadowsocks/simple-obfs) - A simple obfuscating tool (Deprecated)
+
 ## Batchfile
 
 *   [1143520/picture-api](https://github.com/1143520/picture-api) -
+
+*   [vokins/yhosts](https://github.com/vokins/yhosts) - AD hosts爱好群，群号:201973909；无限期暂停更新。劝君更尽一杯酒，西出阳关无故人。莫愁前路无知己，天下谁人不识君。
 
 ## Adblock Filter List
 
@@ -1666,6 +1853,12 @@
 *   [Alinto/sogo](https://github.com/Alinto/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission handling. It also makes use of documented standards (IMAP, CalDAV, CardDAV, etc.) and thereby provides native connectivity (without plugins) to many clients such as Microsoft Outlook, Apple iCal, the iPhone, Mozilla Lightning, and a plethora of mobile devices.
 
 *   [Cenmrev/V2RayX](https://github.com/Cenmrev/V2RayX) - GUI for v2ray-core on macOS
+
+*   [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
+
+*   [TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS) -
+
+*   [OldFrank/GoAgentX](https://github.com/OldFrank/GoAgentX) - GoAgentX 是一个 goagent 在 Mac OS X 下的图形界面控制软件，方便一般用户在 Mac OS X 上部署、配置和使用 goagent。
 
 ## SCSS
 
@@ -1695,6 +1888,8 @@
 
 *   [koolshare/rogsoft](https://github.com/koolshare/rogsoft) - software center for hnd/axhnd/axhnd.675x routers
 
+*   [koolshare/koolshare.github.io](https://github.com/koolshare/koolshare.github.io) - 网站切换到：https://www.asusgo.com
+
 ## Crystal
 
 *   [getmango/Mango](https://github.com/getmango/Mango) - Mango is a self-hosted manga server and web reader
@@ -1710,3 +1905,23 @@
 ## Mermaid
 
 *   [v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples) - v2ray-core 的模板们
+
+## Perl
+
+*   [OreosLab/checkinpanel](https://github.com/OreosLab/checkinpanel) - 一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）
+
+## CoffeeScript
+
+*   [bolasblack/icon-finder](https://github.com/bolasblack/icon-finder) -
+
+## Smarty
+
+*   [zhongfly/now-subconverter](https://github.com/zhongfly/now-subconverter) - 已失效！
+
+## AutoHotkey
+
+*   [Rubioo/WizNote2OneNote](https://github.com/Rubioo/WizNote2OneNote) - 把为知笔记迁移到OneNote
+
+## ASP
+
+*   [DigitalSumeru/koolshare.github.io](https://github.com/DigitalSumeru/koolshare.github.io) - For koolshare.cn
